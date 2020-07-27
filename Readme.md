@@ -27,7 +27,7 @@ E aí, tudo na paz? Sou Junior Alves, um Full Stack Developer 🚀, apaixonado p
 - 💬 Se tiver dúvidas, pode perguntar, o que eu puder ajudar, estou à disposição 🤝;
 - 📫 Me envie um email: jjalves96@gmail.com;
 
-**Linguagens and Ferramentas:**
+**Linguagens e Ferramentas:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
