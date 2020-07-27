@@ -1,4 +1,4 @@
-### Hey 👋🏽, Me chamo Junior!
+### Hey! 👋🏽
 
 <br/>
 
@@ -12,6 +12,7 @@
   <img align="left" alt="Junior's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
 <br />
 
 E aí, tudo na paz? Sou Junior Alves, um Full Stack Developer 🚀, apaixonado por tecnologia. Atualmente trabalho 👨🏽‍💻 com Node.js, ReactJS, React Native e várias tecnologias em volta dessa stack. Nas horas vagas, gosto de 📚 ler e ✏️ desenhar [@Artstation](https://www.artstation.com/jjunior_art)
