@@ -23,7 +23,7 @@ E aí, tudo na paz? Sou Junior Alves, um Full Stack Developer 🚀, apaixonado p
 
 - 👨🏽‍💻 Atualmente, estou trabalhando em projetos locais e pessoais, sempre buscando novas oportunidades! 🚀 ;
 - 🌱 Estou atualmente aprendendo GraphQL and React;
-- 🤔 Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou codar! Sempre nessa ordem. ;
+- 🤔 Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou codar! Sempre nessa ordem ;
 - 💬 Se tiver dúvidas, pode perguntar, o que eu puder ajudar, estou à disposição 🤝;
 - 📫 Me envie um email: jjalves96@gmail.com;
 
