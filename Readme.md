@@ -2,7 +2,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jorge-alves-b66a10127/">
+<a href="https://www.linkedin.com/in/junior-alves-b66a10127">
   <img align="left" alt="Junior's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/jjalves96">
