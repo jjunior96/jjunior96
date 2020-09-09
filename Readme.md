@@ -15,7 +15,7 @@
 <br />
 <br />
 
-E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho 👨🏽‍💻 com Node.js, ReactJS, React Native e várias tecnologias em volta dessa stack. Nas horas vagas, gosto de ler 📚 e  desenhar ✏️ [@Artstation](https://www.artstation.com/jjunior_art)
+E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho 👨🏽‍💻 com Node.js, ReactJS, React Native e várias tecnologias em volta dessa stack. Nas horas vagas, gosto de ler 📚 e desenhar ✏️ [@Artstation](https://www.artstation.com/jjunior_art)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -41,12 +41,9 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
 
 **📕 Posts recentes em meu blog:**
 
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ➡️ [mais posts...](https://alvesjunior.netlify.app/)
-
-
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&hide_border=true)
