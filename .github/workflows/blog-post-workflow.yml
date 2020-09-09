@@ -15,3 +15,4 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://alvesjunior.netlify.app/sitemap.xml"
+
