@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
-          feed_list: "https://alvesjunior.netlify.app/sitemap.xml"
+          feed_list: "https://www.devjuniorplus.com.br/sitemap.xml"
 
