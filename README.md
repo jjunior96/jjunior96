@@ -43,11 +43,11 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
-- [Expansion Week dia 2](https://alvesjunior.netlify.app/a-importância-do-plano-de-carreira/)
-- [Aprendendo a aprender](https://alvesjunior.netlify.app/aprendendo-a-aprender/)
+- [Expansion Week - Dia 3](https://alvesjunior.netlify.app/expansion-week-dia-3/)
+- [Expansion Week - Dia 2](https://alvesjunior.netlify.app/a-importância-do-plano-de-carreira/)
+- [Expansion Week - Dia 1](https://alvesjunior.netlify.app/aprendendo-a-aprender/)
 - [O Poder do Efeito Composto](https://alvesjunior.netlify.app/o-poder-do-efeito-composto/)
 - [Métodos de iteração de arrays em Javascript](https://alvesjunior.netlify.app/métodos-de-iteração-de-arrays-em-javascript/)
-- [Operações de um Array em Javascript](https://alvesjunior.netlify.app/operacoes-de-um-array-em-javascript/)
 <!-- BLOG:END -->
 
 ➡️ [mais posts...](https://devjuniorplus.com.br)
