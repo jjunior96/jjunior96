@@ -49,6 +49,6 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
 - [Operações de um Array em Javascript](https://alvesjunior.netlify.app/operacoes-de-um-array-em-javascript/)
 <!-- BLOG:END -->
 
-➡️ [mais posts...](https://alvesjunior.netlify.app/)
+➡️ [mais posts...](https://devjuniorplus.com.br)
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&hide_border=true)
