@@ -50,6 +50,6 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
 - [O Poder do Efeito Composto](https://devjuniorplus.com.br/o-poder-do-efeito-composto/)
 <!-- BLOG:END -->
 
-➡️ [mais posts...](https://devjuniorplus.com.br)
+➡️   [mais posts...](https://devjuniorplus.com.br)
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&hide_border=true)
