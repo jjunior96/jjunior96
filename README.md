@@ -40,17 +40,26 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**📕 Posts recentes em meu blog:**
+<p align="center">
+  <p>
+    **📕 Posts recentes em meu blog:**
 
-<!-- BLOG:START -->
-- [Expansion Week - Dia 5](https://devjuniorplus.com.br/expansion-week-dia-5/)
-- [Expansion Week - Dia 4](https://devjuniorplus.com.br/expansion-week-dia-4/)
-- [Expansion Week - Dia 3](https://devjuniorplus.com.br/expansion-week-dia-3/)
-- [Expansion Week - Dia 2](https://devjuniorplus.com.br/a-importância-do-plano-de-carreira/)
-- [Expansion Week - Dia 1](https://devjuniorplus.com.br/aprendendo-a-aprender/)
-<!-- BLOG:END -->
+    <!-- BLOG:START -->
+    - [Expansion Week - Dia 5](https://devjuniorplus.com.br/expansion-week-dia-5/)
+    - [Expansion Week - Dia 4](https://devjuniorplus.com.br/expansion-week-dia-4/)
+    - [Expansion Week - Dia 3](https://devjuniorplus.com.br/expansion-week-dia-3/)
+    - [Expansion Week - Dia 2](https://devjuniorplus.com.br/a-importância-do-plano-de-carreira/)
+    - [Expansion Week - Dia 1](https://devjuniorplus.com.br/aprendendo-a-aprender/)
+    <!-- BLOG:END -->
 
-➡️   [mais posts...](https://devjuniorplus.com.br)
+    ➡️   [mais posts...](https://devjuniorplus.com.br)
+  </p>
+  
+  <p>
+    ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&hide_border=true)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+</p>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
