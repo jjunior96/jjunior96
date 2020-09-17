@@ -53,3 +53,4 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
 ➡️   [mais posts...](https://devjuniorplus.com.br)
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
