@@ -45,12 +45,12 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
     **📕 Posts recentes em meu blog:**
 
     <!-- BLOG:START -->
-    - [Expansion Week - Dia 5](https://devjuniorplus.com.br/expansion-week-dia-5/)
-    - [Expansion Week - Dia 4](https://devjuniorplus.com.br/expansion-week-dia-4/)
-    - [Expansion Week - Dia 3](https://devjuniorplus.com.br/expansion-week-dia-3/)
-    - [Expansion Week - Dia 2](https://devjuniorplus.com.br/a-importância-do-plano-de-carreira/)
-    - [Expansion Week - Dia 1](https://devjuniorplus.com.br/aprendendo-a-aprender/)
-    <!-- BLOG:END -->
+- [Expansion Week - Dia 5](https://devjuniorplus.com.br/expansion-week-dia-5/)
+- [Expansion Week - Dia 4](https://devjuniorplus.com.br/expansion-week-dia-4/)
+- [Expansion Week - Dia 3](https://devjuniorplus.com.br/expansion-week-dia-3/)
+- [Expansion Week - Dia 2](https://devjuniorplus.com.br/a-importância-do-plano-de-carreira/)
+- [Expansion Week - Dia 1](https://devjuniorplus.com.br/aprendendo-a-aprender/)
+<!-- BLOG:END -->
 
     ➡️   [mais posts...](https://devjuniorplus.com.br)
   </p>
