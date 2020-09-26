@@ -43,7 +43,7 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
  **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
-- [Aprendendo sobre testes e TDD](https://devjuniorplus.com.br/aprendendo-sobre-testes-e-tdd/)
+- [TDD na pratica com Jest](https://devjuniorplus.com.br/aprendendo-sobre-testes-e-tdd/)
 - [Aprendendo TypeScript - Parte 1](https://devjuniorplus.com.br/aprendendo-typescript-parte-1/)
 - [Expansion Week - Dia 5](https://devjuniorplus.com.br/expansion-week-dia-5/)
 - [Expansion Week - Dia 4](https://devjuniorplus.com.br/expansion-week-dia-4/)
