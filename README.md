@@ -43,7 +43,7 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
  **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
-- [Como lembrar de tudo o que estuda?](https://devjuniorplus.com.br/como-lembrar-de-tudo-o-que-estuda/)
+- [Como lembrar de tudo o que estudo?](https://devjuniorplus.com.br/como-lembrar-de-tudo-o-que-estuda/)
 - [Aprendendo mais sobre Git](https://devjuniorplus.com.br/aprendendo-mais-sobre-git/)
 - [TDD na pratica com Jest](https://devjuniorplus.com.br/aprendendo-sobre-testes-e-tdd/)
 - [Aprendendo TypeScript - Parte 1](https://devjuniorplus.com.br/aprendendo-typescript-parte-1/)
