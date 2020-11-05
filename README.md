@@ -22,7 +22,7 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
 
 **Algumas coisas pessoais:**
 
-- 👨🏽‍💻 Atualmente, estou trabalhando na [SmartEnvios](https://smartenvios.com/) 📦;
+- 👨🏽‍💻 Criando sempre um novo projeto 🚀 ;
 - 🌱 Estou atualmente aprendendo GraphQL e React;
 - 🤔 Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou codar! Sempre nessa ordem;
 - 💬 Se tiver dúvidas, pode perguntar, o que eu puder ajudar, estou à disposição 🤝 ;
