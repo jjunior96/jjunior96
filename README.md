@@ -24,7 +24,7 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
 
 - 👨🏽‍💻 Criando sempre um novo projeto 🚀 ;
 - 🌱 Estou atualmente aprendendo GraphQL, ReactJS e React Native ⚛️ ;
-- 🤔 Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou codar! Sempre nessa ordem;
+- 🤔 Sempre que me deparo com algo novo, pesquiso bastante, anoto os pontos importantes e vou codar!
 - 💬 Se tiver dúvidas, pode perguntar, o que eu puder ajudar, estou à disposição 🤝 ;
 - 📫 Me envie um email: jjalves96@gmail.com;
 
