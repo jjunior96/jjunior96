@@ -45,11 +45,11 @@ E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por 
  **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [Meu ano de 2020](https://devjuniorplus.com.br/meu-ano-de-2020/)
 - [Primeiro vídeo pro YouTube!](https://devjuniorplus.com.br/primeiro-vídeo-pro-youtube/)
 - [Next Level Week - Dia 01](https://devjuniorplus.com.br/next-level-week-dia-01/)
 - [Como lembrar de tudo o que estudo?](https://devjuniorplus.com.br/como-lembrar-de-tudo-o-que-estuda/)
 - [Aprendendo mais sobre Git](https://devjuniorplus.com.br/aprendendo-mais-sobre-git/)
-- [TDD na pratica com Jest](https://devjuniorplus.com.br/aprendendo-sobre-testes-e-tdd/)
 <!-- BLOG:END -->
 
 ➡️  ` ` [mais posts...](https://devjuniorplus.com.br)
