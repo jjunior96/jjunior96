@@ -1,4 +1,10 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjunior96" alt="jjunior96" /> </p> -->
+<!-- 
+====================================================================================
+Obrigado por abrir meu README! Espero que algo aqui seja útil para você.
+Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se ajuda! 🚀
+====================================================================================
+-->
 ### Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <br/>
