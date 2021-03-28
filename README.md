@@ -16,7 +16,7 @@
 <br />
 <br />
 
-E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho 👨🏽‍💻 com Node.js, ReactJS, React Native e várias tecnologias em volta dessa stack. Nas horas vagas, gosto de ler 📚 e desenhar ✏️ [@Artstation](https://www.artstation.com/jjunior_art)
+E aí, tudo na paz? Sou Junior Alves, Javascript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho na [Green Acesso](https://greenacesso.com/)🏽🔒‍ com Node.js e ReactJS e várias tecnologias em volta dessa stack. Nas horas vagas, gosto de ler 📚 e desenhar ✏️ [@Artstation](https://www.artstation.com/jjunior_art)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
