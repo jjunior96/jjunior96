@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript Developer 🚀, apaixonado por tecnologia. Atualmen
  **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [Resolvendo erro do &quot;asPath&quot; do Next.js no Storybook](https://devjuniorplus.com.br/resolvendo-erro-do-aspath-do-next-js-no-storybook/)
 - [Criando formulários com React Hook Form](https://devjuniorplus.com.br/criando-formulários-com-react-hook-form/)
 - [O que eu achei da estratégia Ultralearning?](https://devjuniorplus.com.br/conheca-a-estrategia-ultralearning-de-estudos/)
 - [Meu ano de 2020](https://devjuniorplus.com.br/meu-ano-de-2020/)
 - [Primeiro vídeo pro YouTube!](https://devjuniorplus.com.br/primeiro-vídeo-pro-youtube/)
-- [Next Level Week - Dia 01](https://devjuniorplus.com.br/next-level-week-dia-01/)
 <!-- BLOG:END -->
 
 ➡️  ` ` [mais posts...](https://devjuniorplus.com.br)
