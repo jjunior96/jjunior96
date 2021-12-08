@@ -23,7 +23,7 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 <br />
 
 E aí, tudo na paz?<br/> 
-Sou Junior Alves, Javascript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho na [Green Acesso](https://greenacesso.com/) 🔒‍ com Node.js e ReactJS e várias tecnologias em volta dessa stack. Nas horas vagas, gosto de ler 📚 e desenhar ✏️ [@Artstation](https://www.artstation.com/jjunior_art)
+Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho na [Green Acesso](https://greenacesso.com/) 🔒‍ com Node.js e ReactJS e várias tecnologias em volta dessa stack. Nas horas vagas, gosto de ler 📚 e desenhar ✏️ [@Artstation](https://www.artstation.com/jjunior_art)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
