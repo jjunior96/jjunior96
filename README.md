@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
  **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [Como você pode aumentar sua produtividade no Insomnia com essa dica](https://devjuniorplus.com.br/como-você-pode-aumentar-sua-produtividade-no-insomnia-com-essa-dica/)
 - [Meu ano de 2021](https://devjuniorplus.com.br/meu-ano-de-2021/)
 - [Resolvendo erro do &quot;asPath&quot; do Next.js no Storybook](https://devjuniorplus.com.br/resolvendo-erro-do-aspath-do-next-js-no-storybook/)
 - [Criando formulários com React Hook Form](https://devjuniorplus.com.br/criando-formulários-com-react-hook-form/)
 - [O que eu achei da estratégia Ultralearning?](https://devjuniorplus.com.br/conheca-a-estrategia-ultralearning-de-estudos/)
-- [Meu ano de 2020](https://devjuniorplus.com.br/meu-ano-de-2020/)
 <!-- BLOG:END -->
 
 ➡️  ` ` [mais posts...](https://devjuniorplus.com.br)
