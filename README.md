@@ -12,9 +12,7 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 <a href="https://www.linkedin.com/in/junior-alves-b66a10127">
   <img align="left" alt="Junior's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
 </a>
-<a href="https://t.me/jjalves96">
-  <img align="left" alt="Junior's Telegram" width="26px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />
-</a>
+
 <a href="https://www.instagram.com/junior.alves__/">
   <img align="left" alt="Junior's Instagram" width="26px"  src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 </a>
