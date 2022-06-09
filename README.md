@@ -65,8 +65,10 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 
 ➡️  ` ` [mais posts...](https://devjuniorplus.com.br)
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior96&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
 
  ### Total de Visitas no perfil :detective: <br>
  <p align="center"> 
