@@ -56,11 +56,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
  **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [O que são componentes no React?](https://devjuniorplus.com.br/o-que-são-componentes-no-react/)
 - [O que você deve saber sobre React Hooks?](https://devjuniorplus.com.br/o-que-você-deve-saber-sobre-react-hooks/)
 - [3 dicas para você usar em projetos React + Typescript!](https://devjuniorplus.com.br/3-dicas-para-você-usar-em-projetos-react-typescript/)
 - [Como você faria essa validação?](https://devjuniorplus.com.br/como-você-faria-essa-validação/)
 - [Como você pode aumentar sua produtividade no Insomnia com essa dica](https://devjuniorplus.com.br/como-você-pode-aumentar-sua-produtividade-no-insomnia-com-essa-dica/)
-- [Meu ano de 2021](https://devjuniorplus.com.br/meu-ano-de-2021/)
 <!-- BLOG:END -->
 
 ➡️  ` ` [mais posts...](https://devjuniorplus.com.br)
