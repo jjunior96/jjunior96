@@ -56,8 +56,8 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
  **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
-- [O que são componentes no React - Part I?](https://devjuniorplus.com.br/o-que-são-componentes-no-react/)
 - [O que são componentes no React - Part II?](https://devjuniorplus.com.br/o-que-são-componentes-no-react-part-2/)
+- [O que são componentes no React - Part I?](https://devjuniorplus.com.br/o-que-são-componentes-no-react/)
 - [O que você deve saber sobre React Hooks?](https://devjuniorplus.com.br/o-que-você-deve-saber-sobre-react-hooks/)
 - [3 dicas para você usar em projetos React + Typescript!](https://devjuniorplus.com.br/3-dicas-para-você-usar-em-projetos-react-typescript/)
 - [Como você faria essa validação?](https://devjuniorplus.com.br/como-você-faria-essa-validação/)
