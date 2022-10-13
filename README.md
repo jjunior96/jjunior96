@@ -63,7 +63,6 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
-
 - [O que são e para que servem as Props no React?](https://devjuniorplus.com.br/o-que-são-e-para-que-servem-as-props-no-react/)
 - [O que são componentes no React - Part II?](https://devjuniorplus.com.br/o-que-são-componentes-no-react-part-2/)
 - [O que são componentes no React - Part I?](https://devjuniorplus.com.br/o-que-são-componentes-no-react/)
