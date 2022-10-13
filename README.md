@@ -1,6 +1,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjunior96" alt="jjunior96" /> </p> -->
 
-# <!--
+<!--
 
 Obrigado por abrir meu README! Espero que algo aqui seja útil para você.
 Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se ajuda! 🚀
@@ -55,7 +55,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**🎥 Vídeos recentes em meu canal:**
+**▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
 - [MACBOOK AIR M1 VALE A PENA EM 2022? Minha experiência depois de 1 ano de uso](https://www.youtube.com/watch?v=pi3ehMLyBC4)
