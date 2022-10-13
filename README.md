@@ -1,11 +1,13 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjunior96" alt="jjunior96" /> </p> -->
-<!-- 
-====================================================================================
+
+# <!--
+
 Obrigado por abrir meu README! Espero que algo aqui seja útil para você.
 Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se ajuda! 🚀
 ====================================================================================
 -->
-### Hey! 
+
+### Hey!
 
 <br/>
 
@@ -20,7 +22,7 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 <br />
 <br />
 
-E aí, tudo na paz?<br/> 
+E aí, tudo na paz?<br/>
 Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho no [Magazine Luiza/LuizaLabs](https://www.magazineluiza.com.br/) como Senior Frontend Developer. Nas horas vagas, gosto de ler 📚 e desenhar ✏️ [@Artstation](https://www.artstation.com/jjunior_art)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
@@ -53,9 +55,15 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
- **📕 Posts recentes em meu blog:**
+**🎥 Vídeos recentes em meu canal:**
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+**📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+
 - [O que são e para que servem as Props no React?](https://devjuniorplus.com.br/o-que-são-e-para-que-servem-as-props-no-react/)
 - [O que são componentes no React - Part II?](https://devjuniorplus.com.br/o-que-são-componentes-no-react-part-2/)
 - [O que são componentes no React - Part I?](https://devjuniorplus.com.br/o-que-são-componentes-no-react/)
@@ -63,14 +71,15 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 - [3 dicas para você usar em projetos React + Typescript!](https://devjuniorplus.com.br/3-dicas-para-você-usar-em-projetos-react-typescript/)
 <!-- BLOG:END -->
 
-➡️  ` ` [mais posts...](https://devjuniorplus.com.br)
+➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
 
 <div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior96&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
- ### Total de Visitas no perfil :detective: <br>
+### Total de Visitas no perfil :detective: <br>
+
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jjunior96/count.svg" />
  </p>

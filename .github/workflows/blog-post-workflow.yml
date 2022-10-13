@@ -16,3 +16,7 @@ jobs:
           comment_tag_name: BLOG
           feed_list: "https://www.devjuniorplus.com.br/feed.xml"
 
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: YOUTUBE
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCERTT0Z4u-0dFask_kL83sw"
