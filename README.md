@@ -58,6 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **🎥 Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [MACBOOK AIR M1 VALE A PENA EM 2022? Minha experiência depois de 1 ano de uso](https://www.youtube.com/watch?v=pi3ehMLyBC4)
+- [VOCÊ SABE O QUE SÃO COMPONENTES? REACT](https://www.youtube.com/watch?v=RAmWGSELZXU)
+- [[PROBLEMA SSD M1] COMO ESTÁ O MACBOOK AIR M1 APÓS 1 ANO DE USO?](https://www.youtube.com/watch?v=HDQIi2uv4E0)
+- [3 CONCEITOS IMPORTANTES SOBRE REACT QUE VOCÊ PRECISA SABER](https://www.youtube.com/watch?v=lYot-3f1G5w)
+- [COMO CRIAR UM TODO LIST COM REACT + TYPESCRIPT](https://www.youtube.com/watch?v=A4wImDtQw7w)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
