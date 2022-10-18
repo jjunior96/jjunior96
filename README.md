@@ -68,11 +68,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [Como trocar o placeholder do input type=&#39;file&#39;?!](https://devjuniorplus.com.br/como-trocar-o-placeholder-do-input-type-file/)
 - [O que são estados no React?](https://devjuniorplus.com.br/o-que-são-estados-no-react/)
 - [O que são e para que servem as Props no React?](https://devjuniorplus.com.br/o-que-são-e-para-que-servem-as-props-no-react/)
 - [O que são componentes no React - Part II?](https://devjuniorplus.com.br/o-que-são-componentes-no-react-part-2/)
 - [O que são componentes no React - Part I?](https://devjuniorplus.com.br/o-que-são-componentes-no-react/)
-- [O que você deve saber sobre React Hooks?](https://devjuniorplus.com.br/o-que-você-deve-saber-sobre-react-hooks/)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
