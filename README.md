@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [POR QUÊ VOCE NÃO DEVERIA UTILIZAR O TERNÁRIO NO REACT?](https://www.youtube.com/watch?v=6F7V8FD1YvY)
 - [10 EXTENSÕES QUE VOCÊ PRECISA TER NO SEU VSCODE](https://www.youtube.com/watch?v=468TtYwJx9w)
 - [POR QUE VOCÊ DEVERIA UTILIZAR O NEXT.JS?](https://www.youtube.com/watch?v=jbjYN8cibik)
 - [COMO VOCÊ PODE TROCAR O PLACEHOLDER INPUT TYPE=&quot;FILE&quot;?](https://www.youtube.com/watch?v=b_o0Igv34sg)
 - [O QUE SÃO DERIVED STATES NO REACT?](https://www.youtube.com/watch?v=wLTwcdrOSH8)
-- [QUANDO NÃO UTILIZAR ESTADOS NO REACT?](https://www.youtube.com/watch?v=uHxC8FH3l10)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
