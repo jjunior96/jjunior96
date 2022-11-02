@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [PROCESSO QUE EU UTILIZO PARA CRIAR COMPONENTES NO REACT - Melhore seu fluxo na criação de componente](https://www.youtube.com/watch?v=-P5dpZcjGUo)
 - [VOCÊ SABE A DIFERENÇA ENTRE COMPONENTES CONTROLLED E UNCONTROLLED NO REACT?](https://www.youtube.com/watch?v=ZIMLxlbScW4)
 - [VEJA COMO VOCÊ PODE MELHORAR SEUS FORMULÁRIOS NO REACT](https://www.youtube.com/watch?v=mn0LA493pKQ)
 - [5 GRANDES NOVIDADES DO NEXT.JS 13 - Tudo que você deve saber sobre essa atualização](https://www.youtube.com/watch?v=r7Qd25zx5s4)
 - [POR QUÊ VOCE NÃO DEVERIA UTILIZAR O TERNÁRIO NO REACT?](https://www.youtube.com/watch?v=6F7V8FD1YvY)
-- [10 EXTENSÕES QUE VOCÊ PRECISA TER NO SEU VSCODE](https://www.youtube.com/watch?v=468TtYwJx9w)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
