@@ -60,8 +60,8 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 <!-- YOUTUBE:START -->
 - [[NEXT.JS] COMO CRIAR ROTAS NO NEXT.JS 13? Entenda os novos tipos de arquivos - PARTE 2/3](https://www.youtube.com/watch?v=UwnySgndxao)
 - [[NEXT.JS] TUDO O QUE VOCÊ PRECISA SABER SOBRE A NOVA PASTA APP NO NEXT.JS 13 - PARTE 1/3](https://www.youtube.com/watch?v=ekVlgxk7LLY)
-- [PROCESSO QUE EU UTILIZO PARA CRIAR COMPONENTES NO REACT - Melhore seu fluxo na criação de componente](https://www.youtube.com/watch?v=-P5dpZcjGUo)
-- [VOCÊ SABE A DIFERENÇA ENTRE COMPONENTES CONTROLLED E UNCONTROLLED NO REACT?](https://www.youtube.com/watch?v=ZIMLxlbScW4)
+- [COMO CRIAR COMPONENTES NO REACT DE FORMA MAIS EFICIENTE?](https://www.youtube.com/watch?v=-P5dpZcjGUo)
+- [[REACT] QUAL A DIFERENÇA ENTRE COMPONENTES CONTROLLED E UNCONTROLLED?](https://www.youtube.com/watch?v=ZIMLxlbScW4)
 - [VEJA COMO VOCÊ PODE MELHORAR SEUS FORMULÁRIOS NO REACT](https://www.youtube.com/watch?v=mn0LA493pKQ)
 <!-- YOUTUBE:END -->
 
