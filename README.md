@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [TUDO SOBRE REACT HOOKS! Entenda como os Hooks funcionam - Parte 1/2](https://www.youtube.com/watch?v=ZmxeSQZIs9E)
 - [A FORMA CORRETA DE TRATAR ERROS NO REACT](https://www.youtube.com/watch?v=cV4JswN3L24)
 - [O QUE É LIFTING UP STATE NO REACT?](https://www.youtube.com/watch?v=-CnJCkEo-54)
 - [SAGA NEXT.JS 13: FETCHING DATA - PARTE 3/3](https://www.youtube.com/watch?v=Fj59V-ADBf8)
 - [SAGA NEXT.JS 13: NOVAS ROTAS! PARTE 2/3](https://www.youtube.com/watch?v=UwnySgndxao)
-- [SAGA NEXT.JS 13: VALE A PENA MIGRAR? PARTE 1/3](https://www.youtube.com/watch?v=ekVlgxk7LLY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
