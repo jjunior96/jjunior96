@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [MELHORE A USABILIDADE DE SUAS APLICAÇÕES COM ISSO](https://www.youtube.com/watch?v=7mKrr-BjJY8)
 - [INICIANDO COM NEXT.JS 13 - TUTORIAL INICIANTE](https://www.youtube.com/watch?v=2da8JUmNX8M)
 - [3 TIPOS IMPORTANTES NO REACT - Tutorial TypeScript](https://www.youtube.com/watch?v=4Ez0lRRw5YY)
 - [[ROADMAP] O QUE VOCÊ DEVERIA ESTUDAR EM 2O23?](https://www.youtube.com/watch?v=n3R5lqF24gY)
 - [ENTENDA REACT HOOKS NA PRÁTICA! Parte 2/2](https://www.youtube.com/watch?v=l0PFUnLVKp4)
-- [TUDO SOBRE REACT HOOKS! Entenda como os Hooks funcionam - Parte 1/2](https://www.youtube.com/watch?v=ZmxeSQZIs9E)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
