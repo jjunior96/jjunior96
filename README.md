@@ -58,7 +58,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [SEUS FORMULÁRIOS NUNCA MAIS SERÃO OS MESMOS DEPOIS DESSA DICA! - Isso me ajudou demais!](https://www.youtube.com/watch?v=BC3ia0qweOc)
+- [SEUS FORMULÁRIOS NUNCA MAIS SERÃO OS MESMOS DEPOIS DESSA DICA DE OURO!](https://www.youtube.com/watch?v=BC3ia0qweOc)
 - [MELHORE A USABILIDADE DE SUAS APLICAÇÕES COM ISSO](https://www.youtube.com/watch?v=7mKrr-BjJY8)
 - [INICIANDO COM NEXT.JS 13 - TUTORIAL INICIANTE](https://www.youtube.com/watch?v=2da8JUmNX8M)
 - [3 TIPOS IMPORTANTES NO REACT - Tutorial TypeScript](https://www.youtube.com/watch?v=4Ez0lRRw5YY)
