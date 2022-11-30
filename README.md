@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [A FORMA CORRETA DE CRIAR ROTAS PRIVADAS NO NEXT.JS 13 - Nova pasta pasta app!](https://www.youtube.com/watch?v=Js58PJuDPGY)
 - [QUAL A MELHOR ESTRUTURA DE PASTAS PARA PROJETOS REACT/NEXT.JS?](https://www.youtube.com/watch?v=fXPBEKzd26c)
 - [ISSO VAI MUDAR A FORMA EM QUE VOCÊ CRIA SEUS COMPONENTES REACT - React Hooks](https://www.youtube.com/watch?v=2Y0SDdaAvzs)
 - [A MELHOR FORMA DE CRIAR FORMULÁRIOS COM REACTJS - Dica de ouro!](https://www.youtube.com/watch?v=BC3ia0qweOc)
 - [MELHORE A USABILIDADE DE SUAS APLICAÇÕES COM ISSO](https://www.youtube.com/watch?v=7mKrr-BjJY8)
-- [INICIANDO COM NEXT.JS 13 - TUTORIAL INICIANTE](https://www.youtube.com/watch?v=2da8JUmNX8M)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
