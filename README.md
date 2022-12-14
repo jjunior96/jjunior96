@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [COMO APLICAR SOLID NO REACT - Inversão de dependência DIP](https://www.youtube.com/watch?v=V1M39hKE_D8)
 - [COMO MIGRAR UMA APLICAÇÃO PARA NEXTJS 13 - Tutorial + dicas](https://www.youtube.com/watch?v=hKTMIXhFrFQ)
 - [5 CONCEITOS AVANÇADOS DO NEXT.JS 13 - Página 404, arquivos _app e _document e muito mais!](https://www.youtube.com/watch?v=4_h8B9--JIg)
 - [[AVANÇADO] TUDO QUE VOCÊ PRECISA SABER SOBRE ESTADOS NO REACTJS - O guia definitivo](https://www.youtube.com/watch?v=xiQ5TFX7NiI)
 - [O QUE VOCÊ DEVE SABER COMO DEV JUNIOR/PLENO/SENIOR?](https://www.youtube.com/watch?v=ySpPnhaa9GA)
-- [7 CONCEITOS DO TYPESCRIPT QUE VOCÊ DEVE SABER](https://www.youtube.com/watch?v=7DhlW2HvztE)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
