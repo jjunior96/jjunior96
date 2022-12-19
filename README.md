@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [TUTORIAL COMO CRIAR UM COMPONENTE DE LINK CUSTOMIZADO NEXTJS 13 - ActiveLink](https://www.youtube.com/watch?v=1hl6lFBB0j8)
 - [ESSAS SÃO MAIORES VANTAGENS DO HOME OFFICE - Pensamentos pós viagem](https://www.youtube.com/watch?v=sl3mbJjZJvY)
 - [COMO APLICAR SOLID NO REACT - Inversão de dependência DIP](https://www.youtube.com/watch?v=V1M39hKE_D8)
 - [TUTORIAL COMO MIGRAR UMA APLICAÇÃO PARA NEXTJS 13 -  Dicas Extras](https://www.youtube.com/watch?v=hKTMIXhFrFQ)
 - [5 CONCEITOS AVANÇADOS DO NEXT.JS 13 - Página 404, arquivos _app e _document e muito mais!](https://www.youtube.com/watch?v=4_h8B9--JIg)
-- [[AVANÇADO] TUDO QUE VOCÊ PRECISA SABER SOBRE ESTADOS NO REACTJS - O guia definitivo](https://www.youtube.com/watch?v=xiQ5TFX7NiI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
