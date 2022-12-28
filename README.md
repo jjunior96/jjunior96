@@ -58,7 +58,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [TUDO SOBRE A EVOLUÇÃO DO JAVASCRIPT - A linguagem de programação MAIS utilizada na WEB](https://www.youtube.com/watch?v=4FPwOHiKe6k)
+- [A linguagem de programação MAIS POPULAR da WEB - 27 anos de Javascript](https://www.youtube.com/watch?v=4FPwOHiKe6k)
 - [COMO VOCÊ PODE MELHORAR SEUS COMPONENTES REACTJS COM ESSA DICA - TypeScript + ReactJS](https://www.youtube.com/watch?v=aiBlmq_uWAE)
 - [COMO APLICAR SOLID NO REACT - Single Responsibility Principle SRP](https://www.youtube.com/watch?v=4xBVqWmUoIs)
 - [POR QUÊ QUE VOCÊ DEVE LER: 14 Hábitos de Desenvolvedores Altamente Produtivos?](https://www.youtube.com/watch?v=R7Fwt5x4pfg)
