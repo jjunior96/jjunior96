@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [ESSE É O ÚLTIMO VÍDEO](https://www.youtube.com/watch?v=b8gRNz46fkM)
 - [NOVIDADES DO NEXTJS 13 COM TAILWIND CSS E STYLED-COMPONENTS - Explorando a documentação](https://www.youtube.com/watch?v=Dq62gyKschs)
 - [A linguagem de programação MAIS POPULAR da WEB - 27 anos de JavaScript](https://www.youtube.com/watch?v=4FPwOHiKe6k)
 - [COMO VOCÊ PODE MELHORAR SEUS COMPONENTES REACTJS COM ESSA DICA - TypeScript + ReactJS](https://www.youtube.com/watch?v=aiBlmq_uWAE)
 - [COMO APLICAR SOLID NO REACT - Single Responsibility Principle SRP](https://www.youtube.com/watch?v=4xBVqWmUoIs)
-- [POR QUÊ QUE VOCÊ DEVE LER: 14 Hábitos de Desenvolvedores Altamente Produtivos?](https://www.youtube.com/watch?v=R7Fwt5x4pfg)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
