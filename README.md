@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Entenda TUDO sobre o hook MAIS SUBESTIMADO DO REACT - useReducer na prática](https://www.youtube.com/watch?v=w92lb2i98zQ)
 - [ESSE É O ÚLTIMO VÍDEO](https://www.youtube.com/watch?v=b8gRNz46fkM)
 - [NOVIDADES DO NEXTJS 13 COM TAILWIND CSS E STYLED-COMPONENTS - Explorando a documentação](https://www.youtube.com/watch?v=Dq62gyKschs)
 - [A linguagem de programação MAIS POPULAR da WEB - 27 anos de JavaScript](https://www.youtube.com/watch?v=4FPwOHiKe6k)
 - [COMO VOCÊ PODE MELHORAR SEUS COMPONENTES REACTJS COM ESSA DICA - TypeScript + ReactJS](https://www.youtube.com/watch?v=aiBlmq_uWAE)
-- [COMO APLICAR SOLID NO REACT - Single Responsibility Principle SRP](https://www.youtube.com/watch?v=4xBVqWmUoIs)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
