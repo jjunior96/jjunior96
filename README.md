@@ -58,11 +58,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [A Context API do ReactJS é um gerenciador de estados ou não?! State Management com Nextjs](https://www.youtube.com/watch?v=o1qO2kqsOQE)
 - [COMO TESTAR COMPONENTES NO REACTJS NA PRATICA - Next.js 13](https://www.youtube.com/watch?v=K15kqWCaSMI)
 - [QUANDO VOCÊ DEVE CRIAR UM NOVO COMPONENTE EM REACTJS?](https://www.youtube.com/watch?v=VCcOQA6H__k)
 - [TUTORIAL TESTANDO REACT HOOKS NA PRATICA - Async Hooks](https://www.youtube.com/watch?v=15VTngHDCj8)
 - [3 DICAS PARA CRIAR FUNÇÕES MELHORES COM TYPESCRIPT - Tutorial](https://www.youtube.com/watch?v=7TgdYj-6HjM)
-- [POR QUÊ VOCÊ PRECISA TESTAR SUA APLICAÇÃO FRONTEND? - Testes no frontend &lpar;ReactJS&rpar;](https://www.youtube.com/watch?v=A5MR50gqL5w)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
