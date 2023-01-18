@@ -12,7 +12,7 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 <br/>
 
 <a href="https://www.youtube.com/@devjunioralves">
-  <img align="left" alt="Junior's YouTube" width="26px" src="https://img.icons8.com/color/48/000000/youtube.png" />
+  <img align="left" alt="Junior's YouTube" width="26px" src="https://img.icons8.com/color/48/000000/youtube-squared.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/junior-alves-b66a10127">
