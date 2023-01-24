@@ -72,11 +72,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [Typescript: 7 conceitos importantes que você deveria saber](https://devjuniorplus.com.br/typescript-7-conceitos-importantes-que-você-deveria-saber/)
 - [Por que você não deve usar ternário no React?](https://devjuniorplus.com.br/por-que-você-não-deve-usar-ternário-no-react/)
 - [Como trocar o placeholder do input type=&#39;file&#39;?!](https://devjuniorplus.com.br/como-trocar-o-placeholder-do-input-type-file/)
 - [O que são estados no React?](https://devjuniorplus.com.br/o-que-são-estados-no-react/)
 - [O que são e para que servem as Props no React?](https://devjuniorplus.com.br/o-que-são-e-para-que-servem-as-props-no-react/)
-- [O que são componentes no React - Part II?](https://devjuniorplus.com.br/o-que-são-componentes-no-react-part-2/)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
