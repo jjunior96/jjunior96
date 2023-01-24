@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [COMO CONFIGURAR PROJETOS COM NEXTJS 13, TYPESCRIPT, ESLINT PRETTIER E MUITO MAIS #shorts](https://www.youtube.com/watch?v=fdz62HLd4iQ)
 - [COMO EU CONFIGURO MEUS PROJETOS COM NEXTJS 13 E TYPESCRIPT - Com a pasta App + plugins que utilizo](https://www.youtube.com/watch?v=xbrM3aKotao)
 - [Criando AUTENTICAÇÃO com React Hooks e TDD - Tutorial Next.js + TypeScript](https://www.youtube.com/watch?v=6o0cv18dEII)
 - [VOCÊ PRECISA SABER DISSO PARA TER SUCESSO COMO DEV!](https://www.youtube.com/watch?v=jL8E5TvBsL0)
 - [A Context API do ReactJS é um gerenciador de estados ou não?! State Management com Nextjs](https://www.youtube.com/watch?v=o1qO2kqsOQE)
-- [COMO TESTAR COMPONENTES NO REACTJS NA PRATICA - Next.js 13](https://www.youtube.com/watch?v=K15kqWCaSMI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
