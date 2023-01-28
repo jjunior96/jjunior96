@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Não utilize o index como key no ReactJS! #shorts](https://www.youtube.com/watch?v=4mtkQVzwA0o)
 - [COMO TESTAR COMPONENTES ASYNC NO REACTJS + Dicas de boas práticas nos testes](https://www.youtube.com/watch?v=tH4MDbvQ9As)
 - [Como testar Async Components no ReactJS + Jest e RTL #shorts](https://www.youtube.com/watch?v=J4BVrlEOsOo)
 - [TRATAMENTO DE ERROS NO JAVASCRIPT/TYPESCRIPT #shorts](https://www.youtube.com/watch?v=4FO7jWCClAA)
 - [TUDO o que VOCÊ PRECISA SABER sobre o useCallback e useMemo - Memoization na pratica!](https://www.youtube.com/watch?v=pF3rqQzS3Jo)
-- [POR QUÊ VOCÊ PRECISA ENTENDER O QUE É MEMOIZATION?! #shorts](https://www.youtube.com/watch?v=R--s8dqgu_c)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
