@@ -63,7 +63,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 
 <!-- YOUTUBE:START -->
 - [Typescript: Interfaces x Types - Qual a diferença? #shorts](https://www.youtube.com/watch?v=dzkS32zdzjY)
-- [TODO DEV TYPESCRIPT TEM QUE SABER DISSO - Tutorial](https://www.youtube.com/watch?v=9GqFYAfznq4)
+- [Afinal, qual a diferença entre INTERFACE e TYPE? - TYPESCRIPT](https://www.youtube.com/watch?v=9GqFYAfznq4)
 - [NÃO CRIE FUNÇÕES DENTRO DE COMPONENTES REACTJS #shorts](https://www.youtube.com/watch?v=HaosZQFN-OY)
 - [Não utilize o index como key no ReactJS! #shorts](https://www.youtube.com/watch?v=4mtkQVzwA0o)
 - [COMO TESTAR COMPONENTES ASYNC NO REACTJS + Dicas de boas práticas nos testes](https://www.youtube.com/watch?v=tH4MDbvQ9As)
