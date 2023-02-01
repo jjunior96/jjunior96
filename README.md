@@ -63,7 +63,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 
 <!-- YOUTUBE:START -->
 - [A forma CORRETA de fazer REQUISIÇÕES utilizando o useEffect + Axios - Tutorial na prática](https://www.youtube.com/watch?v=xYC95EXsh8M)
-- [useEffect: Não cometa mais esse erro - ReactJS #shorts](https://www.youtube.com/watch?v=k8jqh144qoE)
+- [Como evitar vazamento de memória com useEffect ReactJS - useEffect Memory Leak #shorts](https://www.youtube.com/watch?v=k8jqh144qoE)
 - [OLHA ESSE MACETE PARA FILTRAR NÚMEROS EM UM ARRAY - Javascript #shorts](https://www.youtube.com/watch?v=qzuCJXSl3rU)
 - [Typescript: Interfaces x Types - Qual a diferença? #shorts](https://www.youtube.com/watch?v=dzkS32zdzjY)
 - [Afinal, qual a diferença entre INTERFACE e TYPE? - TYPESCRIPT](https://www.youtube.com/watch?v=9GqFYAfznq4)
