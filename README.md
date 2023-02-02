@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [MELHOR FORMA DE FILTRAR NÚMEROS DE UM ARRAY - Javascript #shorts](https://www.youtube.com/watch?v=wzyEjaeD1YU)
 - [A forma CORRETA de fazer REQUISIÇÕES utilizando o useEffect + Axios - Tutorial na prática](https://www.youtube.com/watch?v=xYC95EXsh8M)
 - [Como evitar vazamento de memória com useEffect ReactJS - useEffect Memory Leak #shorts](https://www.youtube.com/watch?v=k8jqh144qoE)
 - [OLHA ESSE MACETE PARA FILTRAR NÚMEROS EM UM ARRAY - Javascript #shorts](https://www.youtube.com/watch?v=qzuCJXSl3rU)
 - [Typescript: Interfaces x Types - Qual a diferença? #shorts](https://www.youtube.com/watch?v=dzkS32zdzjY)
-- [Afinal, qual a diferença entre INTERFACE e TYPE? - TYPESCRIPT](https://www.youtube.com/watch?v=9GqFYAfznq4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
