@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [CLEAN CODE no ReactJS #shorts](https://www.youtube.com/watch?v=jpyMT4PY9DY)
 - [Pare de usar Spinners na sua aplicação! #shorts](https://www.youtube.com/watch?v=NT27yVeEJrU)
 - [CRIANDO UM COMPONENTE DE SKELETON LOADING COM STYLED-COMPONENTS + Testes e dicas avançadas!](https://www.youtube.com/watch?v=Eh4DGI-gJx8)
 - [MELHOR FORMA DE FILTRAR NÚMEROS DE UM ARRAY - Javascript #shorts](https://www.youtube.com/watch?v=wzyEjaeD1YU)
 - [A forma CORRETA de fazer REQUISIÇÕES utilizando o useEffect + Axios - Tutorial na prática](https://www.youtube.com/watch?v=xYC95EXsh8M)
-- [Como evitar vazamento de memória com useEffect ReactJS - useEffect Memory Leak #shorts](https://www.youtube.com/watch?v=k8jqh144qoE)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
