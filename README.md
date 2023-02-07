@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [COMO CRIAR FORMULÁRIOS NO REACTJS](https://www.youtube.com/watch?v=ooQSjZTxyGY)
+- [COMO CRIAR FORMULÁRIOS NO REACTJS #shorts](https://www.youtube.com/watch?v=ooQSjZTxyGY)
 - [MELHORE SEUS FORMULÁRIOS COM ESSAS DICAS AVANÇADAS - React Hook Form](https://www.youtube.com/watch?v=awUE9p5ITQA)
 - [ERRO COMUM COM useState ReactJS #shorts](https://www.youtube.com/watch?v=F2oO96K4l5A)
 - [CLEAN CODE no ReactJS #shorts](https://www.youtube.com/watch?v=jpyMT4PY9DY)
