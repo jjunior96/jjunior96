@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [3 CONCEITOS AVANÇADOS DE TYPESCRIPT - O último é MUITO sensacional!](https://www.youtube.com/watch?v=hG-jsybxX1I)
+- [Qual a diferença entre void e never no Typescript? #shorts](https://www.youtube.com/watch?v=9jJav4zXvu4)
 - [Dicas de arrays com Javascript #shorts](https://www.youtube.com/watch?v=ixUcxUa34J8)
 - [COMO CRIAR FORMULÁRIOS NO REACTJS #shorts](https://www.youtube.com/watch?v=ooQSjZTxyGY)
 - [MELHORE SEUS FORMULÁRIOS COM ESSAS DICAS AVANÇADAS - React Hook Form](https://www.youtube.com/watch?v=awUE9p5ITQA)
-- [ERRO COMUM COM useState ReactJS #shorts](https://www.youtube.com/watch?v=F2oO96K4l5A)
-- [CLEAN CODE no ReactJS #shorts](https://www.youtube.com/watch?v=jpyMT4PY9DY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
