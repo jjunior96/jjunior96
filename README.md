@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [JAVASCRIPT: Como organizar elementos em ordem alfabética? #shorts](https://www.youtube.com/watch?v=bn7D-pzdDXQ)
 - [3 CONCEITOS AVANÇADOS DE TYPESCRIPT - O último é MUITO sensacional!](https://www.youtube.com/watch?v=hG-jsybxX1I)
 - [Qual a diferença entre void e never no Typescript? #shorts](https://www.youtube.com/watch?v=9jJav4zXvu4)
 - [Dicas de arrays com Javascript #shorts](https://www.youtube.com/watch?v=ixUcxUa34J8)
 - [COMO CRIAR FORMULÁRIOS NO REACTJS #shorts](https://www.youtube.com/watch?v=ooQSjZTxyGY)
-- [MELHORE SEUS FORMULÁRIOS COM ESSAS DICAS AVANÇADAS - React Hook Form](https://www.youtube.com/watch?v=awUE9p5ITQA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
