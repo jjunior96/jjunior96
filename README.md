@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [COMO APLICAR SOLID NO REACTJS #shorts](https://www.youtube.com/watch?v=vom1aA4eABA)
 - [O que é o OCP e como aplicar no ReactJS?! #shorts](https://www.youtube.com/watch?v=KmwKck5o2AA)
 - [COMO APLICAR SOLID NO REACTJS - Open-Closed Principle na prática](https://www.youtube.com/watch?v=VsC1pm4CUFM)
 - [TODAS AS NOVIDADES DO NEXTJS 13 EM 1 SÓ VÍDEO! #shorts](https://www.youtube.com/watch?v=EzDLpTK8uiA)
 - [Typescript AVANÇADO - diferenças entre void e never #shorts](https://www.youtube.com/watch?v=WIXP7CKcc7w)
-- [VOCÊ PRECISA DISSO NO TYPESCRIPT](https://www.youtube.com/watch?v=KkAPUohlj70)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
