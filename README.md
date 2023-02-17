@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [POR QUE É IMPORTANTE ENTENDER JAVASCRIPT ANTES DO REACT.JS #shorts](https://www.youtube.com/watch?v=zEWUqsYGqRQ)
+- [5 conceitos AVANÇADOS do REACTJS que você DEVE saber!](https://www.youtube.com/watch?v=UqKcSKUpDLQ)
 - [Essa dica vai mudar a forma que você cria seus componentes ReactJS #shorts](https://www.youtube.com/watch?v=w5kIxncB2AA)
 - [Local Storage com Next.js 13 #shorts](https://www.youtube.com/watch?v=bonoq29fusI)
 - [COMO TRABALHAR COM LOCALSTORAGE NO NEXTJS 13 - Com testes!](https://www.youtube.com/watch?v=ASOc6lm-7l8)
-- [COMO APLICAR SOLID NO REACTJS #shorts](https://www.youtube.com/watch?v=vom1aA4eABA)
-- [O que é o OCP e como aplicar no ReactJS?! #shorts](https://www.youtube.com/watch?v=KmwKck5o2AA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
