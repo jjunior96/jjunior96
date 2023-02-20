@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [3 FORMAS DE TRABALHAR COM ROTAS DINÂMICAS COM NEXTJS](https://www.youtube.com/watch?v=HF0lh6Ih0zQ)
+- [NEXTJS: ROTAS DINÂMICAS DE UM JEITO DIFERENTE #shorts](https://www.youtube.com/watch?v=MWRQimsUIM0)
 - [COMO MELHORAR A ACESSIBILIDADE DE COMPONENTES REACTJS #shorts](https://www.youtube.com/watch?v=JvcGWnzqGtw)
 - [BOMBA! NOVIDADE SENSACIONAL no Next.js 13! #shorts](https://www.youtube.com/watch?v=r5fvB6Hw55o)
 - [POR QUE É IMPORTANTE ENTENDER JAVASCRIPT ANTES DO REACT.JS #shorts](https://www.youtube.com/watch?v=zEWUqsYGqRQ)
-- [5 conceitos AVANÇADOS do REACTJS que você DEVE saber!](https://www.youtube.com/watch?v=UqKcSKUpDLQ)
-- [Essa dica vai mudar a forma que você cria seus componentes ReactJS #shorts](https://www.youtube.com/watch?v=w5kIxncB2AA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
