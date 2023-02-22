@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [TUDO sobre as Route Handlers do Next.js 13 - As Api Routes vão morrer?](https://www.youtube.com/watch?v=TSqcceMKhMs)
+- [TUDO sobre as Route Handlers do Next.js 13 #shorts](https://www.youtube.com/watch?v=2FsWcJDyKss)
 - [VARIANTS COM O STYLED COMPONENTS REACTJS #shorts](https://www.youtube.com/watch?v=t2ZmMOEbfHI)
 - [3 FORMAS DE TRABALHAR COM ROTAS DINÂMICAS COM NEXTJS](https://www.youtube.com/watch?v=HF0lh6Ih0zQ)
 - [NEXTJS: ROTAS DINÂMICAS DE UM JEITO DIFERENTE #shorts](https://www.youtube.com/watch?v=MWRQimsUIM0)
-- [COMO MELHORAR A ACESSIBILIDADE DE COMPONENTES REACTJS #shorts](https://www.youtube.com/watch?v=JvcGWnzqGtw)
-- [BOMBA! NOVIDADE SENSACIONAL no Next.js 13! #shorts](https://www.youtube.com/watch?v=r5fvB6Hw55o)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
