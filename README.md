@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O jeito certo de utilizar a Context API do ReactJS #shorts](https://www.youtube.com/watch?v=Zq9ISkXN1sk)
+- [A Context API é um state management?! A forma CORRETA de utilizar a CONTEXT API do React.js](https://www.youtube.com/watch?v=06_575UN55A)
 - [React Hook Pattern #shorts](https://www.youtube.com/watch?v=Bw9jwh8ksTk)
 - [TUDO sobre as Route Handlers do Next.js 13 - As Api Routes vão morrer?](https://www.youtube.com/watch?v=TSqcceMKhMs)
 - [TUDO sobre as Route Handlers do Next.js 13 #shorts](https://www.youtube.com/watch?v=2FsWcJDyKss)
-- [VARIANTS COM O STYLED COMPONENTS REACTJS #shorts](https://www.youtube.com/watch?v=t2ZmMOEbfHI)
-- [3 FORMAS DE TRABALHAR COM ROTAS DINÂMICAS COM NEXTJS](https://www.youtube.com/watch?v=HF0lh6Ih0zQ)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
