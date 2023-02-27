@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [PARE de usar o useEffect para fazer API calls! React Query + Next.js](https://www.youtube.com/watch?v=whCL2lPYF4U)
+- [Como utilizar o React Query na prática #shorts](https://www.youtube.com/watch?v=RaV75rzoWnc)
 - [SOLID NO REACTJS - DIP #shorts](https://www.youtube.com/watch?v=BrALxRGJCxU)
 - [SEO com Next.js 13 - GRANDE NOVIDADE do Next.js #shorts](https://www.youtube.com/watch?v=lu0BhxJeztk)
 - [O jeito certo de utilizar a Context API do ReactJS #shorts](https://www.youtube.com/watch?v=Zq9ISkXN1sk)
-- [A Context API é um state management?! A forma CORRETA de utilizar a CONTEXT API do React.js](https://www.youtube.com/watch?v=06_575UN55A)
-- [React Hook Pattern #shorts](https://www.youtube.com/watch?v=Bw9jwh8ksTk)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
