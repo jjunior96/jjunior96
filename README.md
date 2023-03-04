@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [VALIDAÇÃO DE FORMULÁRIOS COM ZOD #shorts](https://www.youtube.com/watch?v=LrSoian46gE)
 - [Signals no React.js?!](https://www.youtube.com/watch?v=eo1Zr99hC-4)
 - [O que são Signals no Javascript? React.js #shorts](https://www.youtube.com/watch?v=XRzm3W-BAzM)
 - [Não cometa esse erro no React.js #shorts](https://www.youtube.com/watch?v=klYB6uU9HsU)
 - [React.js + RHF + Zod = ❤️ #shorts](https://www.youtube.com/watch?v=B-_xqRIcaYc)
-- [FORMULÁRIOS COM REACTJS - A nova forma de criar validações #forms](https://www.youtube.com/watch?v=0tPXbyFaoxc)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
