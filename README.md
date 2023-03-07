@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [SEO com Next.js #shorts](https://www.youtube.com/watch?v=4X5BM_3vdS4)
 - [3 ERROS AO UTILIZAR CONDICIONAIS NO REACTJS | +BÔNUS  - Conditional Rendering #ifelse](https://www.youtube.com/watch?v=tmJnFZDQIzw)
 - [CLEAN CODE no React.js: Não utilize if dessa forma #shorts](https://www.youtube.com/watch?v=FPWWap3Wkpc)
 - [Documentar componentes React.js com essa lib é sensacional! Storybook #shorts](https://www.youtube.com/watch?v=mLVCkleMLJg)
 - [VALIDAÇÃO DE FORMULÁRIOS COM ZOD #shorts](https://www.youtube.com/watch?v=LrSoian46gE)
-- [Signals no React.js?!](https://www.youtube.com/watch?v=eo1Zr99hC-4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
