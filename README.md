@@ -64,7 +64,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 <!-- YOUTUBE:START -->
 - [JAVASCRIPT: Você não precisa de date-fns ou moment! #shorts](https://www.youtube.com/watch?v=wL4hg5_I1Sc)
 - [Melhore a experiência dos seus usuários com essa dica! #shorts](https://www.youtube.com/watch?v=NGh7W53tJIs)
-- [PARE de criar estados no React.js - Salve informações na URL!](https://www.youtube.com/watch?v=6svKCB8XFog)
+- [PARE de criar estados no React.js nesses casos - Salve informações na URL!](https://www.youtube.com/watch?v=6svKCB8XFog)
 - [SEO com Next.js #shorts](https://www.youtube.com/watch?v=4X5BM_3vdS4)
 - [3 ERROS AO UTILIZAR CONDICIONAIS NO REACTJS | +BÔNUS  - Conditional Rendering #ifelse](https://www.youtube.com/watch?v=tmJnFZDQIzw)
 <!-- YOUTUBE:END -->
