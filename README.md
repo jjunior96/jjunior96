@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Você sabia que existe um &quot;Google&quot; para devs? #shorts](https://www.youtube.com/watch?v=nyUwSJ0W6sA)
 - [Seus projetos Next.js vão mudar! #shorts](https://www.youtube.com/watch?v=t6xlploReaQ)
 - [SEUS PROJETOS COM NEXTJS NUNCA MAIS SERÃO OS MESMOS!](https://www.youtube.com/watch?v=a8VqS-odK-Q)
 - [JAVASCRIPT: Você não precisa de date-fns ou moment! #shorts](https://www.youtube.com/watch?v=wL4hg5_I1Sc)
 - [Melhore a experiência dos seus usuários com essa dica! #shorts](https://www.youtube.com/watch?v=NGh7W53tJIs)
-- [PARE de criar estados no React.js nesses casos - Salve informações na URL!](https://www.youtube.com/watch?v=6svKCB8XFog)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
