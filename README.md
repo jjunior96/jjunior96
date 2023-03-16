@@ -63,7 +63,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 
 <!-- YOUTUBE:START -->
 - [A Context API é um state management ou não? #shorts](https://www.youtube.com/watch?v=p9pWA6Mb8CU)
-- [Por esse motivo eu NÃO utilizo a Context API do React.js - State Management com Zustand](https://www.youtube.com/watch?v=Jtc0xGwPkjw)
+- [Context API vs Zustand - Guia de State Management no ReactJS](https://www.youtube.com/watch?v=Jtc0xGwPkjw)
 - [Você realmente sabe Javascript? #shorts](https://www.youtube.com/watch?v=VVD6gzNI9Oo)
 - [PARE DE COMETER ESSES ERROS COM STATES NO REACTJS #shorts](https://www.youtube.com/watch?v=oNu6PzT5V1A)
 - [NÃO cometa esses ERROS ao utilizar o hook useState do React.js](https://www.youtube.com/watch?v=5VR2QJF2DZk)
