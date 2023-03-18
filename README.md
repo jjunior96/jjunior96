@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [FINALMENTE! NOVA DOCUMENTAÇÃO DO REACT.JS TA SENSACIONAL #shorts](https://www.youtube.com/watch?v=9lf4T0zPEDs)
 - [Por quê você NÃO deve utilizar o index como key no ReactJS?! #shorts](https://www.youtube.com/watch?v=sNmmoR4GamI)
 - [A PROP MAIS SUBESTIMADA DO REACTJS - Index como prop key?!](https://www.youtube.com/watch?v=Q3zI__9tLfA)
 - [DICA DE JAVASCRIPT PARA FRONTEND #shorts](https://www.youtube.com/watch?v=1uMLJ-KYgoc)
 - [A Context API é um state management ou não? #shorts](https://www.youtube.com/watch?v=p9pWA6Mb8CU)
-- [Context API vs Zustand - Guia de State Management no ReactJS](https://www.youtube.com/watch?v=Jtc0xGwPkjw)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
