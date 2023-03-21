@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O FIND do Javascript em menos de 60 segundos #shorts](https://www.youtube.com/watch?v=nNFqS27sPfM)
 - [A POLÊMICA nova documentação do React.js #shorts](https://www.youtube.com/watch?v=JxVTIjYqOC4)
 - [Esse será o fim do Vite? Nova documentação do React.js](https://www.youtube.com/watch?v=6Y405LAGY80)
 - [Como usar o array filter no Javascript? #shorts](https://www.youtube.com/watch?v=ts0iAliZb_g)
 - [FINALMENTE! NOVA DOCUMENTAÇÃO DO REACT.JS TA SENSACIONAL #shorts](https://www.youtube.com/watch?v=9lf4T0zPEDs)
-- [Por quê você NÃO deve utilizar o index como key no ReactJS?! #shorts](https://www.youtube.com/watch?v=sNmmoR4GamI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
