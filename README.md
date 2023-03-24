@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [Next.js 13 layout + conceitos avançados sobre React.js](https://www.youtube.com/watch?v=ylowKaeKRto)
+- [NEXTJS 13 LAYOUTS | Conceitos avançados sobre React](https://www.youtube.com/watch?v=ylowKaeKRto)
 - [null vs undefined - Qual a diferença?! Typescript #shorts](https://www.youtube.com/watch?v=kjMjLor3DAc)
 - [Aprenda em menos de 60 segundos - Método find do Javascript #shorts](https://www.youtube.com/watch?v=UWwVOuVH-k8)
 - [TUDO SOBRE O REACT QUERY! #shorts](https://www.youtube.com/watch?v=ym2VFWQLxdE)
