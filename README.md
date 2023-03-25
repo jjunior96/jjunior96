@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O que são callback handler no ReactJS #shorts](https://www.youtube.com/watch?v=cA3S-d8R0GQ)
 - [NEXTJS 13 LAYOUTS | Conceitos avançados sobre React](https://www.youtube.com/watch?v=ylowKaeKRto)
 - [null vs undefined - Qual a diferença?! Typescript #shorts](https://www.youtube.com/watch?v=kjMjLor3DAc)
 - [Aprenda em menos de 60 segundos - Método find do Javascript #shorts](https://www.youtube.com/watch?v=UWwVOuVH-k8)
 - [TUDO SOBRE O REACT QUERY! #shorts](https://www.youtube.com/watch?v=ym2VFWQLxdE)
-- [Os 5 conceitos mais IMPORTANTES do React Query! React + Next.js](https://www.youtube.com/watch?v=q8S7YHHaF-0)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
