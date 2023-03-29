@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [AS MAIORES NOVIDADES DO REACT 18 | Novos Hooks!](https://www.youtube.com/watch?v=MV4nuKUkQNs)
+- [Melhore a UX e UI com ReactJS 18! #shorts](https://www.youtube.com/watch?v=MKQK8swqamY)
 - [Javascript | Map na prática #shorts](https://www.youtube.com/watch?v=5VxNDrOvIp8)
 - [DESIGN PATTERNS NO REACT | Render Props](https://www.youtube.com/watch?v=OoIX6bK3Lls)
 - [Você PRECISA desse conceito para DOMINAR o React #shorts](https://www.youtube.com/watch?v=782fqeuC_TA)
-- [[FIXED] null vs undefined - Qual a diferença?! Typescript #shorts](https://www.youtube.com/watch?v=p4ykM9i9F60)
-- [O que são callback handler no ReactJS #shorts](https://www.youtube.com/watch?v=cA3S-d8R0GQ)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
