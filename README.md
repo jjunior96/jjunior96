@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Quais as novidades do ReactJS 18 #shorts](https://www.youtube.com/watch?v=Dnx69hcMjb8)
 - [OS CONCEITOS POR TRÁS DO REACT QUERY #shorts](https://www.youtube.com/watch?v=AggjbeVMwco)
 - [O que um PROGRAMADOR precisa saber?](https://www.youtube.com/watch?v=ydcZWW6YyTM)
 - [O que um PROGRAMADOR precisa saber? #shorts](https://www.youtube.com/watch?v=40UJLfRmAYY)
 - [DICA DE JAVASCRIPT #shorts](https://www.youtube.com/watch?v=E3SCU-FgmtY)
-- [AS MAIORES NOVIDADES DO REACT 18 | Novos Hooks!](https://www.youtube.com/watch?v=MV4nuKUkQNs)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
