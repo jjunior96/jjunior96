@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Como validar campos complexos no ReactJS #shorts](https://www.youtube.com/watch?v=gCIlva8GZ7A)
+- [TUTORIAL FORMULÁRIO AVANÇADO COM REACTJS - Custom Components + React Hook Form + Zod + Typescript](https://www.youtube.com/watch?v=7AyaXgX-alk)
 - [Quais as novidades do ReactJS 18 #shorts](https://www.youtube.com/watch?v=Dnx69hcMjb8)
 - [OS CONCEITOS POR TRÁS DO REACT QUERY #shorts](https://www.youtube.com/watch?v=AggjbeVMwco)
 - [O que um PROGRAMADOR precisa saber?](https://www.youtube.com/watch?v=ydcZWW6YyTM)
-- [O que um PROGRAMADOR precisa saber? #shorts](https://www.youtube.com/watch?v=40UJLfRmAYY)
-- [DICA DE JAVASCRIPT #shorts](https://www.youtube.com/watch?v=E3SCU-FgmtY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
