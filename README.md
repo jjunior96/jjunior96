@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [[FIXED] Null VS Unknown | Typescript](https://www.youtube.com/watch?v=TCrpf4n1I2g)
+- [[FIXED] Any VS Unknown | Typescript](https://www.youtube.com/watch?v=TCrpf4n1I2g)
 - [3 CONCEITOS AVANÇADOS DO TYPESCRIPT QUE VOCÊ DEVE SABER | Dev React](https://www.youtube.com/watch?v=uSRlK8heDWU)
 - [any vs unknown - Qual a diferença? Typescript #shorts](https://www.youtube.com/watch?v=RXhYFwVKrC8)
 - [Melhore a organização dos seus projetos em React.js - custom hooks #shorts](https://www.youtube.com/watch?v=65wxpStmFmk)
