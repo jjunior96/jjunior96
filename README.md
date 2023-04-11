@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Você PRECISA se PREOCUPAR com ISSO em suas aplicações React.js! #shorts](https://www.youtube.com/watch?v=iySPUyVaf5E)
 - [Tutorial COMPLETO sobre Axios - Next.js + Typescript](https://www.youtube.com/watch?v=Db9s-S3B6o8)
 - [TRATAMENTO DE ERROS COM AXIOS #shorts](https://www.youtube.com/watch?v=7ZNYFcQeX1c)
 - [AUMENTE SUA PRODUTIVIDADE NO VSCODE COM ESSA EXTENSÃO #shorts](https://www.youtube.com/watch?v=U2UhQyHfrRs)
 - [VSCODE - Extensão sensacional para produtividade! #shorts](https://www.youtube.com/watch?v=gvbdnJ-OtZo)
-- [CRIE FORMULÁRIOS PROFISSIONAIS NO REACT - React Hook Form + Zod + Consumo de API](https://www.youtube.com/watch?v=vjHAhfgvMyc)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
