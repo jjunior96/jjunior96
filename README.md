@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [SOLID com Styled Components e React.js?! #shorts](https://www.youtube.com/watch?v=y5h-1Q0bAyg)
 - [Componente Async?! Server components VS Client components no Next.js 13](https://www.youtube.com/watch?v=XbQwGXcIeGI)
 - [Qual a diferença entre Server e Client components? #shorts](https://www.youtube.com/watch?v=4NgN-u0k8oI)
 - [Extensão do VSCode para você organizar melhor seus testes! #shorts](https://www.youtube.com/watch?v=lGURdYsErgU)
 - [SOLID NO REACT #shorts](https://www.youtube.com/watch?v=ahYKsOMBo4I)
-- [SOLID - O que é LSP e como aplicar no React.js com hooks?!](https://www.youtube.com/watch?v=2_RRiXxxWBI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
