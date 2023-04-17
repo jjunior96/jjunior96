@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Como formatar moeda apenas com Javascript? #shorts](https://www.youtube.com/watch?v=HFhTZ-2ixbA)
+- [COMO FORMATAR DATA E HORA UTILIZANDO APENAS JAVASCRIPT?](https://www.youtube.com/watch?v=N2ZbA3z5HRc)
 - [Como obter um item aleatório de um array em Javascript? #shorts](https://www.youtube.com/watch?v=CUImbbeQ3ss)
 - [SOLID com Styled Components e React.js?! #shorts](https://www.youtube.com/watch?v=y5h-1Q0bAyg)
 - [Componente Async?! Server components VS Client components no Next.js 13](https://www.youtube.com/watch?v=XbQwGXcIeGI)
-- [Qual a diferença entre Server e Client components? #shorts](https://www.youtube.com/watch?v=4NgN-u0k8oI)
-- [Extensão do VSCode para você organizar melhor seus testes! #shorts](https://www.youtube.com/watch?v=lGURdYsErgU)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
