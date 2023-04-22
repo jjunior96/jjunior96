@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [POR QUE VOCÊ DEVE CRIAR SERVER COMPONENTS NO NEXTJS 13?! #shorts](https://www.youtube.com/watch?v=-i93_jfOrJs)
 - [NOVIDADES DO NEXT.JS 13.3](https://www.youtube.com/watch?v=k7FZjM4Oziw)
 - [NOVIDADES NEXTJS 13.3 | Rotas Paralelas](https://www.youtube.com/watch?v=avd16plcMvg)
 - [Como remover itens duplicados de um array em Javascript? #shorts](https://www.youtube.com/watch?v=RC9w-LCHkRQ)
 - [Axios ou Fetch API com Next.js 13 ?! #shorts](https://www.youtube.com/watch?v=Ha5juaGeKq4)
-- [Fetch API vs Axios | Fetch API com BaseURL? | Qual utilizar com Next.js 13?](https://www.youtube.com/watch?v=N2tc_7VbBkk)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
