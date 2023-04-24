@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [SOLID no React.js - Interface Segregation Principle](https://www.youtube.com/watch?v=r7LOLGF2xyQ)
+- [Como criar componentes resilientes com SOLID? ISP #shorts](https://www.youtube.com/watch?v=8r54o4vsxqA)
 - [Você sabe Javascript? Spread Operator #shorts](https://www.youtube.com/watch?v=M2WqKF_mV2s)
 - [POR QUE VOCÊ DEVE CRIAR SERVER COMPONENTS NO NEXTJS 13?! #shorts](https://www.youtube.com/watch?v=-i93_jfOrJs)
 - [NOVIDADES DO NEXT.JS 13.3](https://www.youtube.com/watch?v=k7FZjM4Oziw)
-- [NOVIDADES NEXTJS 13.3 | Rotas Paralelas](https://www.youtube.com/watch?v=avd16plcMvg)
-- [Como remover itens duplicados de um array em Javascript? #shorts](https://www.youtube.com/watch?v=RC9w-LCHkRQ)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
