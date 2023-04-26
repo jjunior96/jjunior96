@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Formulários AVANÇADOS no React | React Hook Form, Zod e Typescript](https://www.youtube.com/watch?v=NoeHFGlcOZ4)
+- [Formulários PROFISSIONAIS no React.js!!! #shorts](https://www.youtube.com/watch?v=8t_Hf_J9Lmw)
 - [COMO GARANTIR A QUALIDADE DO SEU CÓDIGO? #shorts](https://www.youtube.com/watch?v=7ehzMaYl714)
 - [SOLID no React.js - Interface Segregation Principle](https://www.youtube.com/watch?v=r7LOLGF2xyQ)
 - [Como criar componentes resilientes com SOLID? ISP #shorts](https://www.youtube.com/watch?v=8r54o4vsxqA)
-- [Você sabe Javascript? Spread Operator #shorts](https://www.youtube.com/watch?v=M2WqKF_mV2s)
-- [POR QUE VOCÊ DEVE CRIAR SERVER COMPONENTS NO NEXTJS 13?! #shorts](https://www.youtube.com/watch?v=-i93_jfOrJs)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
