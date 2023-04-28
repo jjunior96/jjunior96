@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Next.js 13 + State management - Client e Server components](https://www.youtube.com/watch?v=rlCJHRv9T9U)
+- [Como funciona state management no Next.js 13? #shorts](https://www.youtube.com/watch?v=fKFvDxTDjyM)
 - [Aprenda a criar formulários dinâmicos e eficientes no React.js #shorts](https://www.youtube.com/watch?v=JgrXwULAYkk)
 - [Formulários AVANÇADOS no React | React Hook Form, Zod e Typescript](https://www.youtube.com/watch?v=NoeHFGlcOZ4)
 - [Formulários PROFISSIONAIS no React.js!!! #shorts](https://www.youtube.com/watch?v=8t_Hf_J9Lmw)
-- [COMO GARANTIR A QUALIDADE DO SEU CÓDIGO? #shorts](https://www.youtube.com/watch?v=7ehzMaYl714)
-- [SOLID no React.js - Interface Segregation Principle](https://www.youtube.com/watch?v=r7LOLGF2xyQ)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
