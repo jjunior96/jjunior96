@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [NOVIDADES DO NEXT.JS 13 #shorts](https://www.youtube.com/watch?v=TrvJfnlVwTQ)
 - [Formulários no React.js com RHF e TDD #shorts](https://www.youtube.com/watch?v=pCtsS6Oe8nE)
 - [Como TESTAR formulários com React Hook Form e TDD - React.js](https://www.youtube.com/watch?v=WGVWsnhRBRc)
 - [COMO CRIAR UM FORMULÁRIOS COMPLEXOS NO REACT.JS?! #shorts](https://www.youtube.com/watch?v=DUEJHeLleQ4)
 - [INCRÍVEL!!! COMO VISUALIZAR SEUS TESTES NO REACT?! #shorts](https://www.youtube.com/watch?v=ekwi0UYm9q4)
-- [Next.js 13 + State management - Client e Server components](https://www.youtube.com/watch?v=rlCJHRv9T9U)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
