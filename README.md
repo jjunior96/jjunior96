@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [SUPER DICA DE TYPESCRIPT NO REACT #shorts](https://www.youtube.com/watch?v=mdy4W_6X7jg)
+- [3 DICAS DE TYPESCRIPT COM REACT - Eu queria saber disso no início](https://www.youtube.com/watch?v=Txe2FKGnnZc)
 - [Crie formulários robustos e dinâmicos com as melhores práticas no React.js #shorts](https://www.youtube.com/watch?v=7nHy2R-7cNw)
 - [O que é injeção de dependência? Como aplicar no React.js?](https://www.youtube.com/watch?v=L44L5l3pcn4)
 - [O que é injeção de dependência? Aplicando no React.js #shorts](https://www.youtube.com/watch?v=4FLpHME8ujc)
-- [NOVIDADES DO NEXT.JS 13 #shorts](https://www.youtube.com/watch?v=TrvJfnlVwTQ)
-- [Formulários no React.js com RHF e TDD #shorts](https://www.youtube.com/watch?v=pCtsS6Oe8nE)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
