@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [AS GRANDES NOVIDADES DO NEXT.JS 13.4](https://www.youtube.com/watch?v=kXetTfUleJM)
+- [NOVIDADES DO NEXT.JS 13.4 | Server Actions | Virou PHP?](https://www.youtube.com/watch?v=IhIdy-r4MII)
 - [Como passar props no React.js corretamente? Dica de Clean Code #shorts](https://www.youtube.com/watch?v=qFSPTg1-4qU)
 - [PRO TIP - Dica para testar suas aplicações de forma profissional #shorts](https://www.youtube.com/watch?v=RJAWhH9MEPo)
 - [SUPER DICA DE TYPESCRIPT NO REACT #shorts](https://www.youtube.com/watch?v=mdy4W_6X7jg)
-- [3 DICAS DE TYPESCRIPT COM REACT - Eu queria saber disso no início](https://www.youtube.com/watch?v=Txe2FKGnnZc)
-- [Crie formulários robustos e dinâmicos com as melhores práticas no React.js #shorts](https://www.youtube.com/watch?v=7nHy2R-7cNw)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
