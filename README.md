@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Não cometa esse erro no React.useEffect #shorts](https://www.youtube.com/watch?v=GA4UY6i5AJU)
 - [Como formatar data no JS sem usar biblioteca? #short](https://www.youtube.com/watch?v=xdCwS_KjgwQ)
 - [Styled Components | Conhecendo as principais features](https://www.youtube.com/watch?v=ehTMBTIleGQ)
 - [Quando um componente React re-render? #shorts](https://www.youtube.com/watch?v=FBfTdd9he6I)
 - [AS GRANDES NOVIDADES DO NEXT.JS 13.4](https://www.youtube.com/watch?v=kXetTfUleJM)
-- [NOVIDADES DO NEXT.JS 13.4 | Server Actions | Virou PHP?](https://www.youtube.com/watch?v=IhIdy-r4MII)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
