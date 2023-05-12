@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Como validar formulários com campos CONDICIONAIS no React.js?! #shorts](https://www.youtube.com/watch?v=xElDjvFK-90)
+- [Validando campos CONDICIONAIS em formulários no React](https://www.youtube.com/watch?v=uzRZu9-9yhE)
 - [Não cometa esse erro no React.useEffect #shorts](https://www.youtube.com/watch?v=GA4UY6i5AJU)
 - [Como formatar data no JS sem usar biblioteca? #short](https://www.youtube.com/watch?v=xdCwS_KjgwQ)
 - [Styled Components | Conhecendo as principais features](https://www.youtube.com/watch?v=ehTMBTIleGQ)
-- [Quando um componente React re-render? #shorts](https://www.youtube.com/watch?v=FBfTdd9he6I)
-- [AS GRANDES NOVIDADES DO NEXT.JS 13.4](https://www.youtube.com/watch?v=kXetTfUleJM)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
