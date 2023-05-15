@@ -72,11 +72,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
-- [Typescript: 7 conceitos importantes que você deveria saber](https://devjuniorplus.com.br/typescript-7-conceitos-importantes-que-você-deveria-saber/)
-- [Por que você não deve usar ternário no React?](https://devjuniorplus.com.br/por-que-você-não-deve-usar-ternário-no-react/)
-- [Como trocar o placeholder do input type=&#39;file&#39;?!](https://devjuniorplus.com.br/como-trocar-o-placeholder-do-input-type-file/)
-- [O que são estados no React?](https://devjuniorplus.com.br/o-que-são-estados-no-react/)
-- [O que são e para que servem as Props no React?](https://devjuniorplus.com.br/o-que-são-e-para-que-servem-as-props-no-react/)
+- [O que é Dependency Injection e como aplicar no React.js?](https://devjunioralvesv2.vercel.app/o-que-e-dependency-injection-e-como-aplicar-no-react-js)
+- [Typescript: 7 conceitos importantes que você deveria saber](https://devjunioralvesv2.vercel.app/typescript-7-conceitos-importantes-que-voce-deveria-saber)
+- [O que são componentes no React?](https://devjunioralvesv2.vercel.app/o-que-sao-componentes-no-react)
+- [Por que você não deve usar ternário no React?](https://devjunioralvesv2.vercel.app/por-que-voce-na-o-deve-usar-terna-rio-no-react)
+- [O que são estados no React?](https://devjunioralvesv2.vercel.app/o-que-sao-estados-no-react)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
