@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Esse PATTERN do React vai te salvar | React Composition](https://www.youtube.com/watch?v=WOfrULDNbZ0)
+- [Você precisa dominar esse PATTERN do React #shorts](https://www.youtube.com/watch?v=SQPqGnpDTks)
 - [ARRAYS AVANÇADOS NO JAVASCRIPT #shorts](https://www.youtube.com/watch?v=l5RMiZDxfdU)
 - [Entenda o findIndex do Javascript em menos de 1 minuto #shorts](https://www.youtube.com/watch?v=Im_0BySkpsk)
 - [Como validar formulários com campos CONDICIONAIS no React.js?! #shorts](https://www.youtube.com/watch?v=xElDjvFK-90)
-- [Validando campos CONDICIONAIS em formulários no React](https://www.youtube.com/watch?v=uzRZu9-9yhE)
-- [Não cometa esse erro no React.useEffect #shorts](https://www.youtube.com/watch?v=GA4UY6i5AJU)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
