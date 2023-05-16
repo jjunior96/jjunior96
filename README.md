@@ -76,7 +76,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 - [Typescript: 7 conceitos importantes que você deveria saber](https://devjuniorplus.com.br/typescript-7-conceitos-importantes-que-voce-deveria-saber)
 - [O que são componentes no React?](https://devjuniorplus.com.br/o-que-sao-componentes-no-react)
 - [Por que você não deve usar ternário no React?](https://devjuniorplus.com.br/por-que-voce-na-o-deve-usar-terna-rio-no-react)
-- [O que são estados no React?](https://devjuniorplus.com.br/o-que-sao-estados-no-react)
+- [Como trocar o placeholder do input type=&#39;file&#39;?!](https://devjuniorplus.com.br/como-trocar-o-placeholder-do-input-type-file-md)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
