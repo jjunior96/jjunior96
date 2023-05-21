@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [ESSA LIB É INDISPENSÁVEL NOS MEUS PROJETOS REACT #shorts](https://www.youtube.com/watch?v=uy7dGbu2mRw)
 - [COMO SABER A TIPAGEM CERTA? Typescript + React #shorts](https://www.youtube.com/watch?v=1sf1Jv25RdE)
 - [VOCÊ SABE DISSO NO STYLED COMPONENTS? #shorts](https://www.youtube.com/watch?v=qvaqRCifA04)
 - [Criando componentes com Styled Components no React e Next.js &lpar;CSS-in-JS&rpar;](https://www.youtube.com/watch?v=5-A8JPlnEiM)
 - [ISSO CONFUNDE MUITOS DEVS | JAVASCRIPT #shorts](https://www.youtube.com/watch?v=OSu70Dt67W0)
-- [Entenda os React Hooks | React Hooks como State Management?](https://www.youtube.com/watch?v=poTwAymizUs)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
