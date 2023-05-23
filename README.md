@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Dica sensacional de Javascript #shorts](https://www.youtube.com/watch?v=okWX9fdrEN0)
 - [Como criar condicionais sem if/else no Javascript?! #shorts](https://www.youtube.com/watch?v=lOu0sns9Nr8)
 - [Por que você NÃO deveria utilizar if/else no seu código?!](https://www.youtube.com/watch?v=Igc0Dct9ChQ)
 - [ESSA LIB É INDISPENSÁVEL NOS MEUS PROJETOS REACT #shorts](https://www.youtube.com/watch?v=uy7dGbu2mRw)
 - [COMO SABER A TIPAGEM CERTA? Typescript + React #shorts](https://www.youtube.com/watch?v=1sf1Jv25RdE)
-- [VOCÊ SABE DISSO NO STYLED COMPONENTS? #shorts](https://www.youtube.com/watch?v=qvaqRCifA04)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
