@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [OS 3 PILARES DO REACTJS #shorts](https://www.youtube.com/watch?v=VTshJyOw498)
+- [3 CONCEITOS QUE VOCÊ PRECISA DOMINAR | REACTJS](https://www.youtube.com/watch?v=3Jg4tsebuTg)
 - [Entenda esse PATTERN poderoso no React #shorts](https://www.youtube.com/watch?v=dGFY1tnxW_M)
 - [MELHORANDO A NAVEGAÇÃO | Next.js 13](https://www.youtube.com/watch?v=y6vphx-VFiY)
 - [TUDO SOBRE LINK DO NEXTJS](https://www.youtube.com/watch?v=jLiK82KaPdk)
-- [Dica sensacional de Javascript #shorts](https://www.youtube.com/watch?v=okWX9fdrEN0)
-- [Como criar condicionais sem if/else no Javascript?! #shorts](https://www.youtube.com/watch?v=lOu0sns9Nr8)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
