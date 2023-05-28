@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Essa API NATIVA do JAVASCRIPT é INCRÍVEL #shorts](https://www.youtube.com/watch?v=j09sb5qvgHU)
 - [Por que design patterns são tão importantes?! ReactJS #shorts](https://www.youtube.com/watch?v=OPJkDslwNvg)
 - [OS 3 PILARES DO REACTJS #shorts](https://www.youtube.com/watch?v=VTshJyOw498)
 - [3 CONCEITOS QUE VOCÊ PRECISA DOMINAR | REACTJS](https://www.youtube.com/watch?v=3Jg4tsebuTg)
 - [Entenda esse PATTERN poderoso no React #shorts](https://www.youtube.com/watch?v=dGFY1tnxW_M)
-- [MELHORANDO A NAVEGAÇÃO | Next.js 13](https://www.youtube.com/watch?v=y6vphx-VFiY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
