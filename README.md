@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Entenda o DRY, YAGNI e KISS #shorts](https://www.youtube.com/watch?v=IHLR03JOWDY)
 - [O que você PRECISA saber para DOMINAR os HOOKS | React](https://www.youtube.com/watch?v=uP-XgfLgI8Y)
 - [O que é um custom hook do React?! #shorts](https://www.youtube.com/watch?v=HZ1ZI2No1mI)
 - [Essa é minha feature preferida do Axios #shorts](https://www.youtube.com/watch?v=jkMVug7FCYw)
 - [Named ou default export no React.js?! #shorts](https://www.youtube.com/watch?v=sHEac9X-HQc)
-- [Import e Export no React.js](https://www.youtube.com/watch?v=XMi9L3cxy-E)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
