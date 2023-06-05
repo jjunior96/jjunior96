@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Esse conceito é FUNDAMENTAL no React](https://www.youtube.com/watch?v=IvlyA-Z_uis)
 - [Como tipar .env e ter autocomplete no React #shorts](https://www.youtube.com/watch?v=fLO-5K_f68M)
 - [MUI, Ant Design, Styled components com React e Typescript #shorts](https://www.youtube.com/watch?v=ahOFKodkB_0)
 - [Melhore seu código Javascript com essa feature](https://www.youtube.com/watch?v=TRUt0quQQDk)
 - [ESSA FEATURE DO JS É MUITO UTILIZADA NO REACT](https://www.youtube.com/watch?v=JQ7BywoF6nw)
-- [Entenda o DRY, YAGNI e KISS #shorts](https://www.youtube.com/watch?v=IHLR03JOWDY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
