@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [É correto utilizar o getById nos testes? React + RTL + Jest](https://www.youtube.com/watch?v=tpA5_U_AWIA)
 - [Você realmente sabe Typescript? #shorts](https://www.youtube.com/watch?v=bz5nudee1aM)
 - [Você talvez NÃO precisa da date-fns mais!](https://www.youtube.com/watch?v=2eWJ4FAnEDg)
 - [Por quê um dev PRECISA saber disso? #shorts](https://www.youtube.com/watch?v=7ctAt_1h3Fw)
 - [Esse conceito é FUNDAMENTAL no React](https://www.youtube.com/watch?v=IvlyA-Z_uis)
-- [Como tipar .env e ter autocomplete no React #shorts](https://www.youtube.com/watch?v=fLO-5K_f68M)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
