@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Você sabe utilizar o Nullish coalescing no Javascript? #shorts](https://www.youtube.com/watch?v=otvZPKy1dWk)
 - [Cookies no Next.js | Tudo o que você precisa saber](https://www.youtube.com/watch?v=lcBmR4F4Tqc)
 - [Clean code no Javascript! #shorts](https://www.youtube.com/watch?v=f7Pvdw6rw5c)
 - [Utilize mais os React Hooks! #shorts](https://www.youtube.com/watch?v=GqdHVrX3fPA)
 - [É correto utilizar o getById nos testes? React + RTL + Jest](https://www.youtube.com/watch?v=tpA5_U_AWIA)
-- [Você realmente sabe Typescript? #shorts](https://www.youtube.com/watch?v=bz5nudee1aM)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
