@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [RESULTADO INESPERADO NO JAVASCRIPT #shorts](https://www.youtube.com/watch?v=Hgl_qCAAZaw)
 - [A FAMOSA SOMA DA LOUCURA NO JAVASCRIPT #shorts](https://www.youtube.com/watch?v=i7QsGn1wm3A)
 - [Você &lpar;talvez&rpar; esteja usando esse React Hook ERRADO #shorts](https://www.youtube.com/watch?v=hVGt4HqarDc)
 - [Pos increment no Javascript #shorts](https://www.youtube.com/watch?v=EqWHR57AADM)
 - [FORMULÁRIOS COM VALIDAÇÕES PROFISSIONAIS | Next.js 13 + Typescript + Zod](https://www.youtube.com/watch?v=CSDVf80AGWY)
-- [Você sabe utilizar o Nullish coalescing no Javascript? #shorts](https://www.youtube.com/watch?v=otvZPKy1dWk)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
