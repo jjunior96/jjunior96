@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [3 dicas para melhorar seu código Typescript | +Bônus](https://www.youtube.com/watch?v=kurhvVX_FKU)
 - [Como criar componentes com React + Styled Components? #shorts](https://www.youtube.com/watch?v=UigJqSJLhv0)
 - [RESULTADO INESPERADO NO JAVASCRIPT #shorts](https://www.youtube.com/watch?v=Hgl_qCAAZaw)
 - [A FAMOSA SOMA DA LOUCURA NO JAVASCRIPT #shorts](https://www.youtube.com/watch?v=i7QsGn1wm3A)
 - [Você &lpar;talvez&rpar; esteja usando esse React Hook ERRADO #shorts](https://www.youtube.com/watch?v=hVGt4HqarDc)
-- [Pos increment no Javascript #shorts](https://www.youtube.com/watch?v=EqWHR57AADM)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
