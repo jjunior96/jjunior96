@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Server Actions | Next.js 13](https://www.youtube.com/watch?v=MC0_LCefK_0)
 - [Next.js 13.3: Rotas Paralelas #shorts](https://www.youtube.com/watch?v=o3iHd18Zwkc)
 - [Componente INPUT do ZERO ao AVANÇADO | React | Nextjs 13 | +Dicas](https://www.youtube.com/watch?v=W04GlUHkAcY)
 - [COMO CORRIGIR? | ERROR module not defined Eslint #shorts](https://www.youtube.com/watch?v=izRLp_mAvRQ)
 - [3 dicas para melhorar seu código Typescript | +Bônus](https://www.youtube.com/watch?v=kurhvVX_FKU)
-- [Como criar componentes com React + Styled Components? #shorts](https://www.youtube.com/watch?v=UigJqSJLhv0)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
