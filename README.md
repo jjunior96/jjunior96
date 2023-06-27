@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [VOCÊ PRECISA DOMINAR ESSES CONCEITOS DO REACTJS #shorts](https://www.youtube.com/watch?v=e7PYQuCv2Fw)
 - [NÃO COMETA ESSE ERRO NO NEXTJS 13](https://www.youtube.com/watch?v=0_rNpDylwB8)
 - [Import e Export no React.js #shorts](https://www.youtube.com/watch?v=zQI_1bNAAl0)
 - [Server Actions | Next.js 13](https://www.youtube.com/watch?v=MC0_LCefK_0)
 - [Next.js 13.3: Rotas Paralelas #shorts](https://www.youtube.com/watch?v=o3iHd18Zwkc)
-- [Componente INPUT do ZERO ao AVANÇADO | React | Nextjs 13 | +Dicas](https://www.youtube.com/watch?v=W04GlUHkAcY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
