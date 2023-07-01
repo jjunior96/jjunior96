@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O QUE UM DEV REACT DEVE SABER? #shorts](https://www.youtube.com/watch?v=E5ejFRfQrzE)
 - [Map vs ForEach | Qual o melhor e por quê?](https://www.youtube.com/watch?v=DtZQzkpLX7I)
 - [Global State Manager no Next.js 13??? #shorts](https://www.youtube.com/watch?v=W7O2EoDf5hE)
 - [A maior dúvida no Next.js 13 | React Server Components](https://www.youtube.com/watch?v=ZppnmQ2EnSk)
 - [VOCÊ PRECISA DOMINAR ESSES CONCEITOS DO REACTJS #shorts](https://www.youtube.com/watch?v=e7PYQuCv2Fw)
-- [NÃO COMETA ESSE ERRO NO NEXTJS 13](https://www.youtube.com/watch?v=0_rNpDylwB8)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
