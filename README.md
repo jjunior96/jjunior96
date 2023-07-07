@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [VOCÊ DEVERIA CONTROLAR SEUS COMPONENTES REACT?!](https://www.youtube.com/watch?v=p2BzdWCYouI)
 - [SUPER NOVIDADE!](https://www.youtube.com/watch?v=7wBjZCP0RP4)
 - [O VÍDEO MAIS PEDIDO...](https://www.youtube.com/watch?v=3rqW2mzFJek)
 - [Como melhorar seu código React? #shorts](https://www.youtube.com/watch?v=rqUXZEwDT4A)
 - [Como trabalhar com formulários no Next.js 13? | App Router | RSC](https://www.youtube.com/watch?v=9fqSnw2Tz3Q)
-- [Cookies no Next.js 13](https://www.youtube.com/watch?v=wYefuD9omZ0)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
