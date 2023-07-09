@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [VOCÊ PRECISA ENTENDER ESSE CONCEITO NO REACT | FORMULÁRIOS #shorts](https://www.youtube.com/watch?v=4MVhai43QXI)
 - [O GRANDE DIA ESTA CHEGANDO!](https://www.youtube.com/watch?v=gtUmMtcTcac)
 - [VOCÊ DEVERIA CONTROLAR SEUS COMPONENTES REACT?!](https://www.youtube.com/watch?v=p2BzdWCYouI)
 - [SUPER NOVIDADE!](https://www.youtube.com/watch?v=7wBjZCP0RP4)
 - [O VÍDEO MAIS PEDIDO...](https://www.youtube.com/watch?v=3rqW2mzFJek)
-- [Como melhorar seu código React? #shorts](https://www.youtube.com/watch?v=rqUXZEwDT4A)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
