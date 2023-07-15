@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Entenda as principais features do Styled Components #shorts](https://www.youtube.com/watch?v=L2GcsupBO_k)
 - [MUI 5 + Next.js 13 = ❤️](https://www.youtube.com/watch?v=hG3ZbqkKnYY)
 - [ESSE É UM GRANDE ANÚNCIO!](https://www.youtube.com/watch?v=ZhYEclVfm-0)
 - [SIMPLIFIQUE SEU CÓDIGO JAVASCRIPT COM ESSA FEATURE](https://www.youtube.com/watch?v=D_wvCiqNkaE)
 - [OS 5 ERROS MAIS COMUNS NO REACT](https://www.youtube.com/watch?v=l__Z4zHUAEI)
-- [COMO INICIAR NO NEXT.JS?](https://www.youtube.com/watch?v=rrInHUFsPys)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
