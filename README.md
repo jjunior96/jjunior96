@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O que você aprendeu hoje?](https://www.youtube.com/watch?v=a_Se_9Rfkqs)
 - [Como trabalhar com cookies no Next.js 13?](https://www.youtube.com/watch?v=SFMrA9q8eos)
 - [PARE de passar props!](https://www.youtube.com/watch?v=X0Lh3YjK2nY)
 - [Melhore seu código Typescript com essa dica!](https://www.youtube.com/watch?v=EW39U-50_dA)
 - [Entenda as principais features do Styled Components #shorts](https://www.youtube.com/watch?v=L2GcsupBO_k)
-- [MUI 5 + Next.js 13 = ❤️](https://www.youtube.com/watch?v=hG3ZbqkKnYY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
