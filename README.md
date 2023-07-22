@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [NÃO passe props! Faça isso.](https://www.youtube.com/watch?v=tG5VZ5qTKOQ)
 - [COMO ESSA NOVA FEATURE VAI MELHORAR SEUS FORMULÁRIOS?!](https://www.youtube.com/watch?v=VwhqvJ3Lvt4)
 - [ESSA FEATURE É INCRÍVEL E VOCÊ PRECISA CONHECER!](https://www.youtube.com/watch?v=3Ptz1mtPe38)
 - [CUSTOM HOOKS NO REACTJS #shorts](https://www.youtube.com/watch?v=TdGx9vw7KtE)
 - [O que você aprendeu hoje?](https://www.youtube.com/watch?v=a_Se_9Rfkqs)
-- [Como trabalhar com cookies no Next.js 13?](https://www.youtube.com/watch?v=SFMrA9q8eos)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
