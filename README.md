@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [COMPONENTE INPUT CUSTOM DO ZERO AO AVANÇADO #shorts](https://www.youtube.com/watch?v=blh_5cgeyoU)
+- [CRIANDO UM INPUT DO ZERO AO AVANÇADO #shorts](https://www.youtube.com/watch?v=blh_5cgeyoU)
 - [State vs Props](https://www.youtube.com/watch?v=xySDiXyID2c)
 - [9 PERGUNTAS SOBRE REACT.JS QUE VOCÊ PRECISA SABER!](https://www.youtube.com/watch?v=4tD9MhBPFUQ)
 - [A FORMA CORRETA DE VALIDAR DATAS COM ZOD #shorts](https://www.youtube.com/watch?v=mYziiyaGvOI)
