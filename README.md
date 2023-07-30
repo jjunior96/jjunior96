@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [VOCÊ SABE COMO TRATAR ISSO?](https://www.youtube.com/watch?v=G4LGqSJawRg)
 - [CRIE SEUS COMPONENTES ASSIM...](https://www.youtube.com/watch?v=TDhJoAPv_mI)
 - [NÃO FAÇA PROMESSAS!](https://www.youtube.com/watch?v=Cz2k7JxsOCU)
 - [Você PRECISA entender esse conceito do ReactJS #shorts](https://www.youtube.com/watch?v=dIxUbM7tnKc)
 - [Você deveria utilizar o Github Copilot?](https://www.youtube.com/watch?v=y8mio0OXJtc)
-- [O QUE ESTÁ ACONTECENDO COM STACK OVERFLOW?! POR QUÊ ISSO É IMPORTANTE?](https://www.youtube.com/watch?v=oHEJZMNAuAs)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
