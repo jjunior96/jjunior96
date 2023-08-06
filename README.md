@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [VOCÊ PRECISA ENTENDER ESSE PATTERN!](https://www.youtube.com/watch?v=Z-ZCmpddzqI)
 - [COMO MELHORAR SEU CÓDIGO TYPESCRIPT?!](https://www.youtube.com/watch?v=gJILyd0CByc)
 - [COMO EU CONFIGURO TESTES NOS MEUS PROJETOS?](https://www.youtube.com/watch?v=MPxB68mJT0I)
 - [Por que você NÃO deveria utilizar isso?! #shorts](https://www.youtube.com/watch?v=QelLejhsjhE)
 - [O que é ser um dev junior?](https://www.youtube.com/watch?v=15swPKChIbo)
-- [Cookies no Next.js 13?!](https://www.youtube.com/watch?v=_PA0IKKSU_A)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
