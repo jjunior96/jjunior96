@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [COMO CONFIGURO MEUS PROJETOS?](https://www.youtube.com/watch?v=PrADIoiLKcA)
 - [AS PERGUNTAS MAIS COMUNS EM ENTREVISTAS](https://www.youtube.com/watch?v=cB1IvzGUHQA)
 - [Essa é a melhor forma de aprender!](https://www.youtube.com/watch?v=WM0AlT2tGfw)
 - [FORMULÁRIOS DIFERENTES?!](https://www.youtube.com/watch?v=K4BIS8t5mJc)
 - [Precisamos falar sobre boas práticas...](https://www.youtube.com/watch?v=7DhQwADybaQ)
-- [VOCÊ PRECISA ENTENDER ESSE PATTERN!](https://www.youtube.com/watch?v=Z-ZCmpddzqI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
