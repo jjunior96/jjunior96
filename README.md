@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Por que você NÃO deve atualizar STATES dessa forma?! 9 perguntas importantes sobre ReactJS](https://www.youtube.com/watch?v=C3J_NwAzFGU)
 - [NÃO FAÇA PROMESSAS!](https://www.youtube.com/watch?v=DXw6mEuqxV4)
 - [ISSO MUDOU MEUS FORMULÁRIOS!](https://www.youtube.com/watch?v=njPaBQlyib0)
 - [PARE DE USAR DIVS!](https://www.youtube.com/watch?v=w0UQR_sPugw)
 - [VOCÊ SABE A RESPOSTA?!](https://www.youtube.com/watch?v=VgnReoAVEgo)
-- [Você precisa conhecer isso no Javascript](https://www.youtube.com/watch?v=-h6jzez6K7s)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
