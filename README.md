@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Será esse o FIM do React Query?](https://www.youtube.com/watch?v=NoiGlnLZVg4)
 - [Você conhece essa feature do TS?! #typescript #javascript #frontend](https://www.youtube.com/watch?v=8ZRNblaPJ4M)
 - [DICA AVANÇADA DE TYPESCRIPT!](https://www.youtube.com/watch?v=hn3mCpPjRzA)
 - [ESSA FEATURE DO TYPESCRIPT É INCRÍVEL! #reactjs #nextjs #typescript](https://www.youtube.com/watch?v=_wXtzG9GjIA)
 - [Você sabe o que é Lifting State Up?!](https://www.youtube.com/watch?v=g-uQF4QqXq4)
-- [O STORYBOOK É TUDO ISSO MESMO?](https://www.youtube.com/watch?v=TkB1fSqUjLk)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
