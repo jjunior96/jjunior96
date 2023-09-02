@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Você conhece esse utility type do Typescript?  #typescript #reactjs #frontend](https://www.youtube.com/watch?v=Kpqb-5WGJ30)
 - [Entrevista Javascript: 5 perguntas muito frequentes | +dicas](https://www.youtube.com/watch?v=ZhgiUYbx13w)
 - [Você precisa usar mais essa feature!](https://www.youtube.com/watch?v=QzL8GSXXW7o)
 - [Será esse o FIM do React Query?](https://www.youtube.com/watch?v=NoiGlnLZVg4)
 - [Você conhece essa feature do TS?! #typescript #javascript #frontend](https://www.youtube.com/watch?v=8ZRNblaPJ4M)
-- [DICA AVANÇADA DE TYPESCRIPT!](https://www.youtube.com/watch?v=hn3mCpPjRzA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
