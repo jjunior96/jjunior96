@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [5 DICAS SIMPLES PARA VOCÊ MELHORAR SEU CÓDIGO!](https://www.youtube.com/watch?v=kzXBvM_Iu60)
 - [High order function Javascript #coding #javascript #tips](https://www.youtube.com/watch?v=Qqv8pco59yg)
 - [GENERALISTA VS ESPECIALISTA | Qual o melhor?](https://www.youtube.com/watch?v=X5-RcjnIKH4)
 - [Você tem que conhecer esse site! #html #reactjs #javascript](https://www.youtube.com/watch?v=Xvw78k_DOo8)
 - [Você conhece esse utility type do Typescript?  #typescript #reactjs #frontend](https://www.youtube.com/watch?v=Kpqb-5WGJ30)
-- [Entrevista Javascript: 5 perguntas muito frequentes | +dicas](https://www.youtube.com/watch?v=ZhgiUYbx13w)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
