@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [COMO OS REACT HOOKS FUNCIONAM?!](https://www.youtube.com/watch?v=ICUcHQbqj7I)
 - [Quando você você deveria ser generalista?  #coding #career #frontend](https://www.youtube.com/watch?v=Ivm3XXNsK0g)
 - [5 DICAS SIMPLES PARA VOCÊ MELHORAR SEU CÓDIGO!](https://www.youtube.com/watch?v=kzXBvM_Iu60)
 - [High order function Javascript #coding #javascript #tips](https://www.youtube.com/watch?v=Qqv8pco59yg)
 - [GENERALISTA VS ESPECIALISTA | Qual o melhor?](https://www.youtube.com/watch?v=X5-RcjnIKH4)
-- [Você tem que conhecer esse site! #html #reactjs #javascript](https://www.youtube.com/watch?v=Xvw78k_DOo8)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
