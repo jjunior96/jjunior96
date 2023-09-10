@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O que é IIFE no Javascript? #function #javascript #tips](https://www.youtube.com/watch?v=o3TFvxWerrM)
 - [Você já se fez essa pergunta? #career #programming #web](https://www.youtube.com/watch?v=QqGYS9j4OkU)
 - [COMO OS REACT HOOKS FUNCIONAM?!](https://www.youtube.com/watch?v=ICUcHQbqj7I)
 - [Quando você você deveria ser generalista?  #coding #career #frontend](https://www.youtube.com/watch?v=Ivm3XXNsK0g)
 - [5 DICAS SIMPLES PARA VOCÊ MELHORAR SEU CÓDIGO!](https://www.youtube.com/watch?v=kzXBvM_Iu60)
-- [High order function Javascript #coding #javascript #tips](https://www.youtube.com/watch?v=Qqv8pco59yg)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
