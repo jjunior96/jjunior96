@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [7 Perguntas Sobre React.js](https://www.youtube.com/watch?v=Htngf7i1Ab0)
 - [Essa é a melhor forma de testar seus componentes React  #reactjs #typescript #frontend](https://www.youtube.com/watch?v=RMSwRn31hc4)
 - [Entrevista Javascript | Você acertaria?](https://www.youtube.com/watch?v=Xu1kX2JF3To)
 - [TESTE SEU CONHECIMENTO EM TYPESCRIPT!  #typescript #javascript #frontend](https://www.youtube.com/watch?v=FMqkJYLAqF8)
 - [O TYPESCRIPT VAI MORRER?! | O que o Ruby on Rails tem a ver com isso?](https://www.youtube.com/watch?v=54PSA5Nu3TI)
-- [O que é IIFE no Javascript? #function #javascript #tips](https://www.youtube.com/watch?v=o3TFvxWerrM)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
