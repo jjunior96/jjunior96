@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [ENTENDA ESSA DIFERENÇA EM 60 SEGUNDOS!](https://www.youtube.com/watch?v=Hoqnna0bPDM)
 - [ARQUITETURA DE SOFTWARE?!](https://www.youtube.com/watch?v=6V4QIaqEAlc)
 - [Você sabe qual o erro?! #coding #web #tips](https://www.youtube.com/watch?v=7uKdGkg2ka0)
 - [Async no Javascript #javascript  #async  #programming](https://www.youtube.com/watch?v=PHtaE8ZhDEg)
 - [NOVIDADES NO NEXTJS 13.5](https://www.youtube.com/watch?v=mzjWcQeGOtE)
-- [React useLayoutEffect | Você conhece?! #reactjs  #typescript #tips](https://www.youtube.com/watch?v=qKLPp9_psnE)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
