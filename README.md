@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [REACT CONCEITOS | DOM vs Virtual DOM 🤔](https://www.youtube.com/watch?v=ykbemtlzN1Y)
 - [NÃO COMETA ESSE ERRO NO REACTJS #reactjs #solid #web](https://www.youtube.com/watch?v=ZI7Iax6CuVg)
 - [Quais são as 3 situações de re-render?! #reactjs  #typescript #tips](https://www.youtube.com/watch?v=LTE5bys0YlU)
 - [3 PONTOS IMPORTANTES | Carreira](https://www.youtube.com/watch?v=QTK4bnZhHCc)
 - [React.Children != children #reactjs #programming #web](https://www.youtube.com/watch?v=yOcwMgmIUik)
-- [NEXTJS 13 CACHE | Como Funciona?!](https://www.youtube.com/watch?v=IeUcJvLsxTY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
