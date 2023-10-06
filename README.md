@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [React Hooks | useEffect você PRECISA evitar isso!](https://www.youtube.com/watch?v=PzxqbiF-x0g)
 - [FAÇA ISSO PARA MELHORAR COMO DEV  #typescript  #coding #reactjs](https://www.youtube.com/watch?v=5ffQjKPUvfI)
 - [3 ERROS MUITO COMUNS NO REACT](https://www.youtube.com/watch?v=UfcedlE62CU)
 - [DEIXE SEU CÓDIGO MAIS LEGÍVEL COM APENAS UMA LINHA #coding #typescript #clean](https://www.youtube.com/watch?v=13uf93oExQU)
 - [REACT CONCEITOS | DOM vs Virtual DOM 🤔](https://www.youtube.com/watch?v=ykbemtlzN1Y)
-- [NÃO COMETA ESSE ERRO NO REACTJS #reactjs #solid #web](https://www.youtube.com/watch?v=ZI7Iax6CuVg)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
