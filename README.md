@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O QUE VOCÊ PRECISA SABER SOBRE CLEAN ARCH?](https://www.youtube.com/watch?v=roUc3GgJTl4)
 - [Você PRECISA saber nisso no REACT #reactjs #coding #typescript](https://www.youtube.com/watch?v=6IGA33vlx10)
 - [Qual a diferença entre DIP e DI? #solid #software #programming](https://www.youtube.com/watch?v=GwW3IJSsVX0)
 - [React Hooks | useEffect você PRECISA evitar isso!](https://www.youtube.com/watch?v=PzxqbiF-x0g)
 - [FAÇA ISSO PARA MELHORAR COMO DEV  #typescript  #coding #reactjs](https://www.youtube.com/watch?v=5ffQjKPUvfI)
-- [3 ERROS MUITO COMUNS NO REACT](https://www.youtube.com/watch?v=UfcedlE62CU)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
