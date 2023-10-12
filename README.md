@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [ERRO CLÁSSICO NO REACTJS  #typescript #coding #reactjs](https://www.youtube.com/watch?v=x_SvJdmCwsE)
 - [VOCÊ PRECISA ENTENDER ISSO!](https://www.youtube.com/watch?v=MbF3HUUxPFo)
 - [Controle Granular | Next.js 13 Cache](https://www.youtube.com/watch?v=ZAxc5hWvkhk)
 - [O QUE VOCÊ PRECISA SABER SOBRE CLEAN ARCH?](https://www.youtube.com/watch?v=roUc3GgJTl4)
 - [Você PRECISA saber nisso no REACT #reactjs #coding #typescript](https://www.youtube.com/watch?v=6IGA33vlx10)
-- [Qual a diferença entre DIP e DI? #solid #software #programming](https://www.youtube.com/watch?v=GwW3IJSsVX0)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
