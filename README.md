@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Você PRECISA entender isso | Next.js 13 Cache](https://www.youtube.com/watch?v=QU_pQFV4Y9M)
 - [TUDO QUE VOCÊ PRECISA SABER SOBRE JAVASCRIPT!](https://www.youtube.com/watch?v=1wZUvuJXbXY)
 - [ERRO CLÁSSICO NO REACTJS  #typescript #coding #reactjs](https://www.youtube.com/watch?v=x_SvJdmCwsE)
 - [VOCÊ PRECISA ENTENDER ISSO!](https://www.youtube.com/watch?v=MbF3HUUxPFo)
 - [Controle Granular | Next.js 13 Cache](https://www.youtube.com/watch?v=ZAxc5hWvkhk)
-- [O QUE VOCÊ PRECISA SABER SOBRE CLEAN ARCH?](https://www.youtube.com/watch?v=roUc3GgJTl4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
