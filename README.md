@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Arquitetura em camadas | Clean Arch  #coding #architecture #tips](https://www.youtube.com/watch?v=vEdIiaUR-Hs)
 - [INICIANDO COM TDD](https://www.youtube.com/watch?v=N3H2dT3TNeo)
 - [VOCÊ PRECISA ENTENDER ISSO | Arquitetura de Software  #coding #architecture #frontend](https://www.youtube.com/watch?v=R_QGXcpBvXc)
 - [VOCÊ PRECISA ENTENDER ISSO | Javascript Promise](https://www.youtube.com/watch?v=PRVceWBtkFE)
 - [Você PRECISA entender como o useEffect funciona!  #typescript #reactjs #tips](https://www.youtube.com/watch?v=bcdmqlKLjnM)
-- [VOCÊ DEVERIA SE PREOCUPAR COM CLEAN CODE?!](https://www.youtube.com/watch?v=CEzH5WVOrYE)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
