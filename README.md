@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [NÃO FAÇA ISSO NO REACT! #reactjs #typescript #tips](https://www.youtube.com/watch?v=PmRWDeC80ZI)
 - [REACT EM 2024](https://www.youtube.com/watch?v=wxRLQgDPA0k)
 - [React Avançado | Stack vs Fiber  #coding #reactjs #web](https://www.youtube.com/watch?v=56s4TYcBW_4)
 - [Você PRECISA entender isso | Arquitetura de Software](https://www.youtube.com/watch?v=5UNCY9iYb0M)
 - [Arquitetura em camadas | Clean Arch  #coding #architecture #tips](https://www.youtube.com/watch?v=vEdIiaUR-Hs)
-- [INICIANDO COM TDD](https://www.youtube.com/watch?v=N3H2dT3TNeo)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
