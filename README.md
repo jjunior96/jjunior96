@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [FLUXO DE CONTROLE | Clean Arch #architecture #software #tips](https://www.youtube.com/watch?v=jt4UQF8WTzA)
 - [O que é o conceito FIRST?](https://www.youtube.com/watch?v=mBoolkc7qe0)
 - [NÃO FAÇA ISSO NO REACT! #reactjs #typescript #tips](https://www.youtube.com/watch?v=PmRWDeC80ZI)
 - [REACT EM 2024](https://www.youtube.com/watch?v=wxRLQgDPA0k)
 - [React Avançado | Stack vs Fiber  #coding #reactjs #web](https://www.youtube.com/watch?v=56s4TYcBW_4)
-- [Você PRECISA entender isso | Arquitetura de Software](https://www.youtube.com/watch?v=5UNCY9iYb0M)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
