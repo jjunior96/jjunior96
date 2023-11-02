@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [NOVO VÍDEO - CONFIRA!](https://www.youtube.com/watch?v=zqwTLZEXC1o)
 - [SOBRE A CODECON 2023...](https://www.youtube.com/watch?v=Ykoa69pHEh8)
 - [Como aplicar Patterns em testes?](https://www.youtube.com/watch?v=cSqyvTYG81g)
 - [FLUXO DE CONTROLE | Clean Arch #architecture #software #tips](https://www.youtube.com/watch?v=jt4UQF8WTzA)
 - [O que é o conceito FIRST?](https://www.youtube.com/watch?v=mBoolkc7qe0)
-- [NÃO FAÇA ISSO NO REACT! #reactjs #typescript #tips](https://www.youtube.com/watch?v=PmRWDeC80ZI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
