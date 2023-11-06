@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [EventStorming](https://www.youtube.com/watch?v=6Y6QoOC0EzI)
+- [O GAP ENTRE NEGÓCIOS E DESENVOLVIMENTO](https://www.youtube.com/watch?v=6Y6QoOC0EzI)
 - [PRIMEIRA LIVE DO CANAL!](https://www.youtube.com/watch?v=uEdptsPMwmA)
 - [ENTENDENDO TDD  #coding #software  #typescript](https://www.youtube.com/watch?v=3_E0By2azkw)
 - [GRANDE ANÚNCIO! #live #dev #code](https://www.youtube.com/watch?v=4msG6snznR4)
