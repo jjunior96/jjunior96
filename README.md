@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [GRANDE ANÚNCIO!](https://www.youtube.com/watch?v=tKltO1Q3qPs)
 - [CLEAN CODE É IMPORTANTE?](https://www.youtube.com/watch?v=Z8K5aentUeY)
 - [VOCÊ PRECISA SABER DISSO!](https://www.youtube.com/watch?v=59D7HnZxvuQ)
 - [O GAP ENTRE NEGÓCIOS E DESENVOLVIMENTO](https://www.youtube.com/watch?v=6Y6QoOC0EzI)
 - [PRIMEIRA LIVE DO CANAL!](https://www.youtube.com/watch?v=uEdptsPMwmA)
-- [ENTENDENDO TDD  #coding #software  #typescript](https://www.youtube.com/watch?v=3_E0By2azkw)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
