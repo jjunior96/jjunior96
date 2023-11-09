@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O GAP ENTRE NEGÓCIOS E DESENVOLVIMENTO](https://www.youtube.com/watch?v=6Y6QoOC0EzI)
 - [Como aplicar Clear Arch no Frontend | Rodrigo Branas](https://www.youtube.com/watch?v=2fvVZxHRCKs)
 - [GRANDE ANÚNCIO!](https://www.youtube.com/watch?v=tKltO1Q3qPs)
 - [CLEAN CODE É IMPORTANTE?](https://www.youtube.com/watch?v=Z8K5aentUeY)
 - [VOCÊ PRECISA SABER DISSO!](https://www.youtube.com/watch?v=59D7HnZxvuQ)
-- [O GAP ENTRE NEGÓCIOS E DESENVOLVIMENTO](https://www.youtube.com/watch?v=6Y6QoOC0EzI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
