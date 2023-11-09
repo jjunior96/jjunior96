@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O que é um SUT? #coding #software #test](https://www.youtube.com/watch?v=sBX8NsJRaY4)
 - [O GAP ENTRE NEGÓCIOS E DESENVOLVIMENTO](https://www.youtube.com/watch?v=6Y6QoOC0EzI)
 - [Como aplicar Clear Arch no Frontend | Rodrigo Branas](https://www.youtube.com/watch?v=2fvVZxHRCKs)
 - [GRANDE ANÚNCIO!](https://www.youtube.com/watch?v=tKltO1Q3qPs)
 - [CLEAN CODE É IMPORTANTE?](https://www.youtube.com/watch?v=Z8K5aentUeY)
-- [VOCÊ PRECISA SABER DISSO!](https://www.youtube.com/watch?v=59D7HnZxvuQ)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
