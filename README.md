@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [EXISTE UM JEITO CERTO DE COMEÇAR UM PROJET?](https://www.youtube.com/watch?v=CRUyIZlvmQo)
 - [Você PRECISA entender isso no JS #javascript #programming #tips](https://www.youtube.com/watch?v=lrollctT9E0)
 - [COMO VOCÊ GARANTE A QUALIDADE DO SEU SOFTWARE?](https://www.youtube.com/watch?v=e5-wLyVs2RM)
 - [SUPER DICA DE REACT #reactjs #coding #typescript](https://www.youtube.com/watch?v=7LKd74q_sME)
 - [A POLÊMICA DO NEXTJS 14 #nextjs #javascript #code](https://www.youtube.com/watch?v=bhQRl_2iE6g)
-- [JAVASCRIPT | Por onde começar?](https://www.youtube.com/watch?v=8wAeZdj3rNI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
