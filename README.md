@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [NOVA VERSÃO DO NEXTJS! #nextjs #reactjs #javascript](https://www.youtube.com/watch?v=b8eqI2gnylo)
 - [FORMULÁRIOS AVANÇADOS NO REACT &lpar;HookForm + Zod&rpar;](https://www.youtube.com/watch?v=wRVeFikH7Q0)
 - [Como aplicar Clear Arch no Frontend | Rodrigo Branas](https://www.youtube.com/watch?v=2fvVZxHRCKs)
 - [O que são Mocks? #software #coding #typescript](https://www.youtube.com/watch?v=Z5g9IaqboAQ)
 - [EXISTE UM JEITO CERTO DE COMEÇAR UM PROJETO?](https://www.youtube.com/watch?v=CRUyIZlvmQo)
-- [Você PRECISA entender isso no JS #javascript #programming #tips](https://www.youtube.com/watch?v=lrollctT9E0)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
