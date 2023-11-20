@@ -62,8 +62,8 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [COMO REFATORAR SEU CÓDIGO SEM MEDO? #code #dev #test](https://www.youtube.com/watch?v=2LMLeFhX9XQ)
 - [Insights, dicas e exeperiências](https://www.youtube.com/watch?v=JG8zwO98zdI)
+- [COMO REFATORAR SEU CÓDIGO SEM MEDO? #code #dev #test](https://www.youtube.com/watch?v=2LMLeFhX9XQ)
 - [NOVA VERSÃO DO NEXTJS! #nextjs #reactjs #javascript](https://www.youtube.com/watch?v=b8eqI2gnylo)
 - [FORMULÁRIOS AVANÇADOS NO REACT &lpar;HookForm + Zod&rpar;](https://www.youtube.com/watch?v=wRVeFikH7Q0)
 - [Como aplicar Clear Arch no Frontend | Rodrigo Branas](https://www.youtube.com/watch?v=2fvVZxHRCKs)
