@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [5 FUNDAMENTOS do NEXTJS 14 que você PRECISA entender](https://www.youtube.com/watch?v=DAd01mYiURo)
 - [DICA PRA VOCÊ APRENDER MELHOR! #code #learning #frontend](https://www.youtube.com/watch?v=n4Hwphg1ICg)
 - [Iniciando DO ZERO com NextJS 14](https://www.youtube.com/watch?v=btoUed8wg20)
 - [Insights, dicas e experiências](https://www.youtube.com/watch?v=JG8zwO98zdI)
 - [COMO REFATORAR SEU CÓDIGO SEM MEDO? #code #dev #test](https://www.youtube.com/watch?v=2LMLeFhX9XQ)
-- [NOVA VERSÃO DO NEXTJS! #nextjs #reactjs #javascript](https://www.youtube.com/watch?v=b8eqI2gnylo)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
