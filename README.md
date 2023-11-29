@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [TRATAMENTO DE ERRO DE FORMA PROFISSIONAL | ReactJS](https://www.youtube.com/watch?v=wykjFaWrq0g)
 - [ISSO VAI MUDAR SUA CARREIRA! #dev #career #frontend](https://www.youtube.com/watch?v=OlZcYHYhcVc)
 - [TUDO o que você PRECISA saber sobre OBJETOS | Javascript](https://www.youtube.com/watch?v=gdWU9fmuhDo)
 - [O QUE É REGRESSÃO NO SEU CÓDIGO?! #code #frontend #test](https://www.youtube.com/watch?v=wLcktOMzrlg)
 - [ENTENDA AS PROMISES #javascript #programming #tips](https://www.youtube.com/watch?v=xCBEL37vQVY)
-- [Como criar um ACTIVE LINK com NEXTJS 14?](https://www.youtube.com/watch?v=vxqiud4klcw)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
