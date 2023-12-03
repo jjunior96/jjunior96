@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [NEXTJS 14 | COMPONENTE CUSTOM LINK #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=aLLPcUGVqsA)
 - [COMO VALIDAR DATAS NO REACT? #reactjs #nextjs #form](https://www.youtube.com/watch?v=BqiR6218lAs)
 - [Minha opinião sobre IA...](https://www.youtube.com/watch?v=c4UFvCNTXoo)
 - [O QUE É AAA? #dev  #web #test](https://www.youtube.com/watch?v=44jemzDOvIs)
 - [TRATAMENTO DE ERRO DE FORMA PROFISSIONAL | ReactJS](https://www.youtube.com/watch?v=wykjFaWrq0g)
-- [ISSO VAI MUDAR SUA CARREIRA! #dev #career #frontend](https://www.youtube.com/watch?v=OlZcYHYhcVc)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
