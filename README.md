@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Aula Essencial de Javascript que Você Perdeu](https://www.youtube.com/watch?v=BPAvOv0qYtw)
 - [COMO CRIAR VALIDAÇÕES EM FORMULÁRIO COM ZOD?!](https://www.youtube.com/watch?v=5fyOzn5fjSU)
 - [TUDO o que você precisa saber sobre Hoisting no Javascript!](https://www.youtube.com/watch?v=OyvPfvw8Wzw)
 - [NEXTJS 14 | COMPONENTE CUSTOM LINK #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=aLLPcUGVqsA)
 - [COMO VALIDAR DATAS NO REACT? #reactjs #nextjs #form](https://www.youtube.com/watch?v=BqiR6218lAs)
-- [Minha opinião sobre IA...](https://www.youtube.com/watch?v=c4UFvCNTXoo)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
