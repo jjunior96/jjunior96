@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O que são HOCs no REACTJS?!](https://www.youtube.com/watch?v=hEG5Sw4dTD0)
 - [COMPONENTE LINK DO NEXTJS 14 #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=7v4iU_hYmVQ)
 - [Aula Essencial de Javascript que Você Perdeu](https://www.youtube.com/watch?v=BPAvOv0qYtw)
 - [COMO CRIAR VALIDAÇÕES EM FORMULÁRIO COM ZOD?!](https://www.youtube.com/watch?v=5fyOzn5fjSU)
 - [TUDO o que você precisa saber sobre Hoisting no Javascript!](https://www.youtube.com/watch?v=OyvPfvw8Wzw)
-- [NEXTJS 14 | COMPONENTE CUSTOM LINK #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=aLLPcUGVqsA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
