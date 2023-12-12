@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [TODO DEV JAVASCRIPT PRECISA ENTENDER ISSO! Hoisting #javascript #code #frontend](https://www.youtube.com/watch?v=oixIbGw7HIQ)
 - [Como Lidar com Hydration Error no Next.js?!](https://www.youtube.com/watch?v=jKtwgkqbkEg)
 - [O que são ERROR BOUNDARIES?! #nextjs #reactjs #javascript](https://www.youtube.com/watch?v=7-YOxgZoXMI)
 - [3 formas de criar objetos no Javascript! #javascript #object #web](https://www.youtube.com/watch?v=9eBpwnkX-MI)
 - [O que são HOCs no REACTJS?!](https://www.youtube.com/watch?v=hEG5Sw4dTD0)
-- [COMPONENTE LINK DO NEXTJS 14 #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=7v4iU_hYmVQ)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
