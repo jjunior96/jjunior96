@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Entendendo o Princípio de Inversão de Dependência: Por que é Importante? SOLID](https://www.youtube.com/watch?v=h6zLHrajGUE)
 - [VOCÊ CONSEGUE RESPONDER CORRETAMENTE? #javascript #frontend #coding](https://www.youtube.com/watch?v=QfiYofNYddg)
 - [5 DICAS DE CLEAN CODE NO JAVASCRIPT](https://www.youtube.com/watch?v=YCKi4k9SE2U)
 - [TODO DEV JAVASCRIPT PRECISA ENTENDER ISSO! Hoisting #javascript #code #frontend](https://www.youtube.com/watch?v=oixIbGw7HIQ)
 - [Como Lidar com Hydration Error no Next.js?!](https://www.youtube.com/watch?v=jKtwgkqbkEg)
-- [O que são ERROR BOUNDARIES?! #nextjs #reactjs #javascript](https://www.youtube.com/watch?v=7-YOxgZoXMI)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
