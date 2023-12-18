@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [COMO APLICAR SOLID NO REACTJS? DIP](https://www.youtube.com/watch?v=0hWakac_6TE)
 - [FORMULÁRIOS PROFISSIONAIS REACTJS #reactjs #nextjs #form](https://www.youtube.com/watch?v=ToEHgcnKGq8)
 - [ROTAS NO NEXTJS 14 #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=UjbyoLT90KQ)
 - [Entendendo o Princípio de Inversão de Dependência: Por que é Importante? SOLID](https://www.youtube.com/watch?v=h6zLHrajGUE)
 - [VOCÊ CONSEGUE RESPONDER CORRETAMENTE? #javascript #frontend #coding](https://www.youtube.com/watch?v=QfiYofNYddg)
-- [5 DICAS DE CLEAN CODE NO JAVASCRIPT](https://www.youtube.com/watch?v=YCKi4k9SE2U)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
