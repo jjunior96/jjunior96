@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Se você utilizar REACT, você PRECISA saber disso! #reactjs #typescript #frontend](https://www.youtube.com/watch?v=v1pMu-IhPnA)
 - [Entenda a diferença entre Component VS Element #reactjs #typescript #frontend](https://www.youtube.com/watch?v=uIAbls9Tvek)
 - [Events VS Effects: Quais as diferenças?](https://www.youtube.com/watch?v=_Iry_AslIRw)
 - [TODO DEV REACT DEVERIA SABER ISSO! #reactjs #hook #typescript](https://www.youtube.com/watch?v=TJcpZkbLx6E)
 - [APRENDA SOBRE OS GENERICS | Typescript](https://www.youtube.com/watch?v=Di5iATbgwwk)
-- [FELIZ ANO NOVO! 🥳🧑‍💻 #newyear #2024 #dev](https://www.youtube.com/watch?v=_awBrWTPDt4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
