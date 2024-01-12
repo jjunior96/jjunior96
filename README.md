@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [SOLID no REACTJS - DIP #reactjs #typescript #solid](https://www.youtube.com/watch?v=w0QGNpOcqa0)
 - [DICA DE FORMULÁRIOS | React Hook Form](https://www.youtube.com/watch?v=LkH3F4_eKzM)
 - [RESPONDENDO DÚVIDA | React Hook Form](https://www.youtube.com/watch?v=ucnat6cUtGM)
 - [CORS: O GRANDE VILÃO | Será?!](https://www.youtube.com/watch?v=lnsEb9VkKCA)
 - [SOLID NA PRÁTICA - DIP #reactjs #javascript #nextjs](https://www.youtube.com/watch?v=f_zXvHUs80w)
-- [Se você utilizar REACT, você PRECISA saber disso! #reactjs #typescript #frontend](https://www.youtube.com/watch?v=v1pMu-IhPnA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
