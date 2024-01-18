@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [10 PRINCIPAIS CONCEITOS DO REACTJS](https://www.youtube.com/watch?v=bFvfQ3XZslc)
+- [O que você PRECISA DOMINAR do React?](https://www.youtube.com/watch?v=bFvfQ3XZslc)
 - [Como Criar Custom Component do JEITO CERTO? #reactjs #frontend #typescript](https://www.youtube.com/watch?v=Tp5Q_lY9WKY)
 - [RENDER NO REACTJS?!](https://www.youtube.com/watch?v=WxACF4atWj0)
 - [O Browser ENTENDE JSX?! #reactjs #typescript #nextjs](https://www.youtube.com/watch?v=DWoV-1q-vKI)
