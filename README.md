@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Erro de CORS?! #javascript #frontend #web](https://www.youtube.com/watch?v=G4mjfRoRfJ8)
 - [Como os componentes REACTJS chegam no Browser?! #reactjs #typescript #nextjs](https://www.youtube.com/watch?v=h9mvVTbCjAM)
 - [DICA para melhorar seu código REACTJS #reactjs #solid #clean code](https://www.youtube.com/watch?v=Zn0lx1ABaZQ)
 - [Formulários Dinâmicos no ReactJS #reactjs #form #typescript](https://www.youtube.com/watch?v=ipRZDo89jAw)
 - [O que você PRECISA DOMINAR do React?](https://www.youtube.com/watch?v=bFvfQ3XZslc)
-- [Como Criar Custom Component do JEITO CERTO? #reactjs #frontend #typescript](https://www.youtube.com/watch?v=Tp5Q_lY9WKY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
