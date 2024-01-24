@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [Essa é a MEHOR feature do Next.js 14!](https://www.youtube.com/watch?v=44bmF1z0XNI)
+- [Essa é a MEHOR feature do Next.js 14! Partial Pre-rendering](https://www.youtube.com/watch?v=44bmF1z0XNI)
 - [Erro de CORS?! #javascript #frontend #web](https://www.youtube.com/watch?v=G4mjfRoRfJ8)
 - [Como os componentes REACTJS chegam no Browser?! #reactjs #typescript #nextjs](https://www.youtube.com/watch?v=h9mvVTbCjAM)
 - [DICA para melhorar seu código REACTJS #reactjs #solid #clean code](https://www.youtube.com/watch?v=Zn0lx1ABaZQ)
