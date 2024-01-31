@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Next.js 14: Roteamento #nextjs #reactjs  #typescript](https://www.youtube.com/watch?v=LRqdv_DlZfc)
 - [Melhore a UX de aplicações ReactJS com essa dica](https://www.youtube.com/watch?v=Lp9xMIVL7Hg)
 - [VOCÊ PRECISA SABER ISSO NO JS | Promises #javascript #frontend #web](https://www.youtube.com/watch?v=m7frcuNApjE)
 - [DICA PARA FRONTEND #reactjs #frontend #https](https://www.youtube.com/watch?v=B_AadTF8sHE)
 - [DICA da React Hook Form #reactjs #form #typescript](https://www.youtube.com/watch?v=VH5iqUUT-hU)
-- [VOCÊ SABE O QUE É UMA PRE-FLIGHT REQUEST ✈️?! #javascript #frontend #web](https://www.youtube.com/watch?v=IxmG1v01jHY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
