@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [Pare de cometer esse erro &lpar;??&rpar;](https://www.youtube.com/watch?v=ZTCvwa2IGD8)
+- [Isso é muito perigoso &lpar;??&rpar;](https://www.youtube.com/watch?v=ZTCvwa2IGD8)
 - [Você precisa saber disso no Next.js 14! #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=R3jIR5BYNSA)
 - [Dica SENSACIONAL no ReactJS #reactjs #form #typescript](https://www.youtube.com/watch?v=ClyQipfT1Zg)
 - [POR QUÊ ACONTECE ERRO DE CORS?! #javascript #frontend #web](https://www.youtube.com/watch?v=nTv4O60QQPg)
