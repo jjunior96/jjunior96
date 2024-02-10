@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [A MAIOR DUVIDA NO NEXTJS #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=YLULBwC_FOs)
 - [DUVIDAS NO JAVASCRIPT #javascript #web #tips](https://www.youtube.com/watch?v=pwE7NWzd4S8)
 - [O erro mais comum no Next.js com App Router](https://www.youtube.com/watch?v=fcUMBjBEDr0)
 - [Formulários Avançados SEM useState | React Hook Form #reactjs #form #frontend](https://www.youtube.com/watch?v=U8NJwRozX7o)
 - [Isso é muito perigoso &lpar;??&rpar;](https://www.youtube.com/watch?v=ZTCvwa2IGD8)
-- [Você precisa saber disso no Next.js 14! #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=R3jIR5BYNSA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
