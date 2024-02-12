@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [COMO FUNCIONA A REACT SUSPENSE API? #reactjs #suspense #frontend](https://www.youtube.com/watch?v=X54Ho_vXvog)
 - [Essa lib é sensacional no ReactJS! #reactjs #javascript #frontend](https://www.youtube.com/watch?v=q0wYXKaw8WY)
 - [A MAIOR DUVIDA NO NEXTJS #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=YLULBwC_FOs)
 - [DUVIDAS NO JAVASCRIPT #javascript #web #tips](https://www.youtube.com/watch?v=pwE7NWzd4S8)
 - [O erro mais comum no Next.js com App Router](https://www.youtube.com/watch?v=fcUMBjBEDr0)
-- [Formulários Avançados SEM useState | React Hook Form #reactjs #form #frontend](https://www.youtube.com/watch?v=U8NJwRozX7o)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
