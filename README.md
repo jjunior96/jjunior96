@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [PARE DE COMETER ESSE ERRO! #javascript #frontend #web](https://www.youtube.com/watch?v=5m7Q_yb_Q7c)
 - [Você precisa conhecer essa lib #reactjs #javascript #frontend](https://www.youtube.com/watch?v=BX_mGWF_EXA)
 - [TUDO que você precisa saber sobre Event Storming - Sebastian Ferrari](https://www.youtube.com/watch?v=CseMVZXW1_w)
 - [Next.js 14 + Suspense API = ❤️  #reactjs #typescript #nextjs](https://www.youtube.com/watch?v=ifk-n0xyhxg)
 - [Se você quer aprender PROGRAMAÇÃO, faça isso… Roadmap definitivo](https://www.youtube.com/watch?v=36Mz5ki3Nj0)
-- [NEXTJS 14 #reactjs #typescript #nextjs](https://www.youtube.com/watch?v=Nb5nABWaW_0)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
