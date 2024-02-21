@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [FACULDADE DE TECNOLOGIA...](https://www.youtube.com/watch?v=NanZZz0pwYA)
+- [Afinal, dev precisa de faculdade ou não?](https://www.youtube.com/watch?v=NanZZz0pwYA)
 - [Next.js: Criando Client Boundaries #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=Kodm-8YXK3U)
 - [PARE DE COMETER ESSE ERRO! #javascript #frontend #web](https://www.youtube.com/watch?v=5m7Q_yb_Q7c)
 - [Você precisa conhecer essa lib #reactjs #javascript #frontend](https://www.youtube.com/watch?v=BX_mGWF_EXA)
