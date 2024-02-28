@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [As novidades do ReactJS 19 #reactjs #javascript #typescript](https://www.youtube.com/watch?v=0KkF_KDKTVk)
+- [GRANDES NOVIDADES NO REACTJS #reactjs #javascript #typescript](https://www.youtube.com/watch?v=0KkF_KDKTVk)
 - [Como resolver problemas com SOLID? E o principal Anti-Pattern no ReactJS](https://www.youtube.com/watch?v=dKNWllwjJWA)
 - [Essa feature do React é INCRÍVEL! #reactjs #nextjs #javascript](https://www.youtube.com/watch?v=utzdG80ScDQ)
 - [React: RSC VS RCC #nextjs #reactjs #javascript](https://www.youtube.com/watch?v=Kc-h38qkB3I)
