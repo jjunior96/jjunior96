@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Não cometa esse erro no ReactJS #reactjs #typescript #frontend](https://www.youtube.com/watch?v=NlEVFMIKeis)
 - [Javascript ANTES do ReactJS?!](https://www.youtube.com/watch?v=VEYodKYBXTU)
 - [Dica SENSACIONAL de formulário #reactjs #typescript #form](https://www.youtube.com/watch?v=oruM-McnjaM)
 - [ANÚNCIO IMPORTANTE NO REACTJS! #reactjs #frontend  #web](https://www.youtube.com/watch?v=ZRLPFdnGPas)
 - [Como aplicar SRP no ReactJS? #reactjs #solid #javascript](https://www.youtube.com/watch?v=_v2DdCtke8M)
-- [COMO EU ORGANIZO MINHAS TASKS?!](https://www.youtube.com/watch?v=_C8t4UErRbE)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
