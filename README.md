@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [AVANÇADO: Como validar formulários no ReactJS? #reactjs #typescript #frontend #form](https://www.youtube.com/watch?v=1a0Kkfni_bk)
 - [TUDO sobre o NOVO hook do ReactJS](https://www.youtube.com/watch?v=Nd539M-6Xds)
 - [Não cometa esse erro no ReactJS #reactjs #typescript #frontend](https://www.youtube.com/watch?v=NlEVFMIKeis)
 - [Javascript ANTES do ReactJS?!](https://www.youtube.com/watch?v=VEYodKYBXTU)
 - [Dica SENSACIONAL de formulário #reactjs #typescript #form](https://www.youtube.com/watch?v=oruM-McnjaM)
-- [ANÚNCIO IMPORTANTE NO REACTJS! #reactjs #frontend  #web](https://www.youtube.com/watch?v=ZRLPFdnGPas)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
