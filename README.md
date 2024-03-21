@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O problema do ReactNode no ReactJS + Typescript](https://www.youtube.com/watch?v=ydNmBISYER4)
 - [O cache do Next.js 14 está quebrado?!](https://www.youtube.com/watch?v=ApIZM637d2g)
 - [ReactJS: Formulários AVANÇADOS com Zod e React Hook Form #reactjs #typescript #frontend](https://www.youtube.com/watch?v=1a0Kkfni_bk)
 - [TUDO sobre o NOVO hook do ReactJS](https://www.youtube.com/watch?v=Nd539M-6Xds)
 - [Não cometa esse erro no ReactJS #reactjs #typescript #frontend](https://www.youtube.com/watch?v=NlEVFMIKeis)
-- [Javascript ANTES do ReactJS?!](https://www.youtube.com/watch?v=VEYodKYBXTU)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
