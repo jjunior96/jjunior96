@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Design Patterns no ReactJS? Entenda na prática e não dependa mais de libs como o Axios](https://www.youtube.com/watch?v=qxqKBNieD5Q)
 - [Quando você deveria utilizar o useMemo no ReactJS?](https://www.youtube.com/watch?v=Sn4_rEm9Q18)
 - [Como aplicar SOLID no ReactJS na prática &lpar;com testes&rpar;?](https://www.youtube.com/watch?v=BpBxKDDAd-Y)
 - [Boas práticas com GIT &lpar;importante se você trabalha com time&rpar;](https://www.youtube.com/watch?v=2p45AP5wJdE)
 - [O problema do ReactNode no ReactJS + Typescript](https://www.youtube.com/watch?v=ydNmBISYER4)
-- [O cache do Next.js 14 está quebrado?!](https://www.youtube.com/watch?v=ApIZM637d2g)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
