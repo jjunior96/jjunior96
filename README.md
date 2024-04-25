@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [3 Design Patterns no ReactJS | Na prática!](https://www.youtube.com/watch?v=Mx_rf0ACimI)
 - [Erros no ReactJS | Crie seus próprios erros e torne sua app mais semântica &lpar;+ testes&rpar;](https://www.youtube.com/watch?v=tS5G-Ex_A9s)
 - [O Anti-Pattern mais comum no ReactJS &lpar;e como evitá-lo&rpar;](https://www.youtube.com/watch?v=npqE8PkapI0)
 - [O guia DEFINITIVO sobre a prop key no ReactJS](https://www.youtube.com/watch?v=H4vTDKfgzDA)
 - [Como aplicar SOLID no ReactJS de forma profissional e melhorar seu código?](https://www.youtube.com/watch?v=2vgDpLM61zw)
-- [Estimativas de software | Tem como acertar ou é só chute?!](https://www.youtube.com/watch?v=_z_rlSQD5p4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
