@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Render no ReactJS | Entenda como seus componentes são renderizados](https://www.youtube.com/watch?v=AO0J9IRCopE)
 - [Enum no TypeScript | O que você NÃO sabe &lpar;evite erros inesperados&rpar;](https://www.youtube.com/watch?v=YNRie55jI9Y)
 - [3 Design Patterns no ReactJS | Na prática!](https://www.youtube.com/watch?v=Mx_rf0ACimI)
 - [Erros no ReactJS | Crie seus próprios erros e torne sua app mais semântica &lpar;+ testes&rpar;](https://www.youtube.com/watch?v=tS5G-Ex_A9s)
 - [O Anti-Pattern mais comum no ReactJS &lpar;e como evitá-lo&rpar;](https://www.youtube.com/watch?v=npqE8PkapI0)
-- [O guia DEFINITIVO sobre a prop key no ReactJS](https://www.youtube.com/watch?v=H4vTDKfgzDA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
