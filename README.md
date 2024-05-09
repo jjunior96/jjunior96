@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O que você NÃO sabe sobre o LSP do SOLID!](https://www.youtube.com/watch?v=lazr3RJi2Uc)
 - [3 Conceitos Avançados do ReactJS que Vale a Pena Você Conhecer](https://www.youtube.com/watch?v=UtF3uxzD0wQ)
 - [Entrevista ReactJS | Uma das perguntas mais comuns](https://www.youtube.com/watch?v=AO0J9IRCopE)
 - [Enum no TypeScript | O que você NÃO sabe &lpar;evite erros inesperados&rpar;](https://www.youtube.com/watch?v=YNRie55jI9Y)
 - [3 Design Patterns no ReactJS | Na prática!](https://www.youtube.com/watch?v=Mx_rf0ACimI)
-- [Erros no ReactJS | Crie seus próprios erros e torne sua app mais semântica &lpar;+ testes&rpar;](https://www.youtube.com/watch?v=tS5G-Ex_A9s)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
