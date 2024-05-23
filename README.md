@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Como aplicar Design Patterns no React com hooks?!](https://www.youtube.com/watch?v=kK-4Cpt5_o4)
 - [Crie seus componentes CUSTOMIZADOS da forma CORRETA | ReactJS](https://www.youtube.com/watch?v=Dgrsa3o-NnE)
 - [React Compiler | A grande novidade do ReactJS 19](https://www.youtube.com/watch?v=KCfD5kx04X0)
 - [Dicas para Dev Senior | O que você PRECISA saber?](https://www.youtube.com/watch?v=LxiGcLwwr7Y)
 - [O que você NÃO sabe sobre o LSP do SOLID!](https://www.youtube.com/watch?v=lazr3RJi2Uc)
-- [3 Conceitos Avançados do ReactJS que Vale a Pena Você Conhecer](https://www.youtube.com/watch?v=UtF3uxzD0wQ)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
