@@ -62,7 +62,7 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
-- [Novidades do Nextjs 15!!!](https://www.youtube.com/watch?v=po897qxbcVA)
+- [Novidades do Nextjs 15 + ReactJS 19](https://www.youtube.com/watch?v=po897qxbcVA)
 - [Como aplicar Design Patterns no React com hooks?!](https://www.youtube.com/watch?v=kK-4Cpt5_o4)
 - [Crie seus componentes CUSTOMIZADOS da forma CORRETA | ReactJS](https://www.youtube.com/watch?v=Dgrsa3o-NnE)
 - [React Compiler | A grande novidade do ReactJS 19](https://www.youtube.com/watch?v=KCfD5kx04X0)
