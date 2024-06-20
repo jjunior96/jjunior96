@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O hook mais complexo do ReactJS | O useEffect é desnecessário?!](https://www.youtube.com/watch?v=01zgUsPClLk)
 - [Testes em 5 minutos](https://www.youtube.com/watch?v=-iQ3pYB7QZo)
 - [Aplicando SOLID e Design Patterns nos React Hooks](https://www.youtube.com/watch?v=pxj01sz3DvE)
 - [Testes no frontend são realmente necessários? Respondendo dúvidas](https://www.youtube.com/watch?v=Jys8Irj6Gp4)
 - [Esse novo hook é sensacional | As novidades do ReactJS 19](https://www.youtube.com/watch?v=0imlRgUs7Is)
-- [Novidades do Nextjs 15 + ReactJS 19](https://www.youtube.com/watch?v=po897qxbcVA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
