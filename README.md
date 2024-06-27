@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Renderização no ReactJS: Como funciona e o que você deve saber?](https://www.youtube.com/watch?v=O9TNoYpeTE8)
 - [Como o ReactJS funciona? Entenda do React Hook Flow](https://www.youtube.com/watch?v=GZ6E7-2XUuc)
 - [O hook mais complexo do ReactJS | O useEffect é desnecessário?!](https://www.youtube.com/watch?v=01zgUsPClLk)
 - [Testes em 5 minutos](https://www.youtube.com/watch?v=-iQ3pYB7QZo)
 - [Aplicando SOLID e Design Patterns nos React Hooks](https://www.youtube.com/watch?v=pxj01sz3DvE)
-- [Testes no frontend são realmente necessários? Respondendo dúvidas](https://www.youtube.com/watch?v=Jys8Irj6Gp4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
