@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Arquitetura Hexagonal: O Segredo para um Código Mais Limpo e Escalável?](https://www.youtube.com/watch?v=P7Yvzglm2Pk)
 - [SOLID e Tarantino?!](https://www.youtube.com/watch?v=mwWsiwzmjqI)
 - [TypeScript Generics: O Guia Essencial](https://www.youtube.com/watch?v=Qv5e4XOJbl4)
 - [Por Que TDD no Frontend Pode Ser a Melhor Escolha? Entenda como o TDD funciona](https://www.youtube.com/watch?v=Zlmk_NEjQLY)
 - [Pergunta de entrevista | Code Split e Lazy Loading no ReactJS](https://www.youtube.com/watch?v=DQoH30T7vu4)
-- [Grande mudança no ReactJS 19 | Isso pode atrasar o lançamento](https://www.youtube.com/watch?v=tyIPfIP4AYg)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
