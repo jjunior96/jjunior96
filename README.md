@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Senior Devs Não Usam console.log - Descubra o Motivo!](https://www.youtube.com/watch?v=iFNPwoBrEJY)
 - [O Conceito Fundamental do Next.js que Todo Dev Deveria Saber](https://www.youtube.com/watch?v=DxkGEi2n-2E)
 - [Por Que Eu Evito React.FC?](https://www.youtube.com/watch?v=553q8DGuhx8)
 - [Por Que Codar Assim Pode Ser Um Grande Erro?](https://www.youtube.com/watch?v=BnN4lIhMGSc)
 - [Por Que Usar Generics no TypeScript?!](https://www.youtube.com/watch?v=RTcMj_dVKxI)
-- [Arquitetura Hexagonal: O Segredo para um Código Mais Limpo e Escalável?](https://www.youtube.com/watch?v=P7Yvzglm2Pk)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
