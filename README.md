@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Design Patterns: Complexidade ou Solução?](https://www.youtube.com/watch?v=EFkqHP-EjCk)
 - [Como Estruturar Custom Hooks no React e Evitar Confusões](https://www.youtube.com/watch?v=l6WGzSc7Lng)
 - [3 Code Smells que Estão Destruindo Seu Código!](https://www.youtube.com/watch?v=L7VxtOIh5pY)
 - [Mantenha Seu Formulário Sempre Atualizado no Next.js](https://www.youtube.com/watch?v=D9pXh6LKDAg)
 - [Senior Devs Não Usam console.log - Descubra o Motivo!](https://www.youtube.com/watch?v=iFNPwoBrEJY)
-- [O Conceito Fundamental do Next.js que Todo Dev Deveria Saber](https://www.youtube.com/watch?v=DxkGEi2n-2E)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
