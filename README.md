@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Entendendo Refs e forwardRef no ReactJS: Quando e Como Utilizar?](https://www.youtube.com/watch?v=tJZX6U5SxOM)
 - [ReactJS: Por Que Tão Poucos Conseguem Masterizar?](https://www.youtube.com/watch?v=BBNVfsYQ59A)
 - [SOLID, Clean Code, Tipagem: A Verdade Sobre a Carga Cognitiva](https://www.youtube.com/watch?v=ierapGX83zU)
 - [Quais Perguntas Todo Dev ReactJS Precisa Saber?](https://www.youtube.com/watch?v=N-SLlKMWE8M)
 - [Design Patterns: Complexidade ou Solução?](https://www.youtube.com/watch?v=EFkqHP-EjCk)
-- [Como Estruturar Custom Hooks no React e Evitar Confusões](https://www.youtube.com/watch?v=l6WGzSc7Lng)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
