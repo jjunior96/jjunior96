@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [ReactJS: Quando e Como Usar Memoization para Evitar Re-Renders](https://www.youtube.com/watch?v=nJOca650HKs)
 - [Entendendo Refs e forwardRef no ReactJS: Quando e Como Utilizar?](https://www.youtube.com/watch?v=tJZX6U5SxOM)
 - [ReactJS: Por Que Tão Poucos Conseguem Masterizar?](https://www.youtube.com/watch?v=BBNVfsYQ59A)
 - [SOLID, Clean Code, Tipagem: A Verdade Sobre a Carga Cognitiva](https://www.youtube.com/watch?v=ierapGX83zU)
 - [Quais Perguntas Todo Dev ReactJS Precisa Saber?](https://www.youtube.com/watch?v=N-SLlKMWE8M)
-- [Design Patterns: Complexidade ou Solução?](https://www.youtube.com/watch?v=EFkqHP-EjCk)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
