@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Novidades no ReactJS 19: Server Functions](https://www.youtube.com/watch?v=XL3fnf2EKPU)
 - [Closures no JavaScript: Como Elas Afetam o Estado no ReactJS?](https://www.youtube.com/watch?v=02KUtsJfRRk)
 - [ReactJS: Quando e Como Usar Memoization para Evitar Re-Renders](https://www.youtube.com/watch?v=nJOca650HKs)
 - [Entendendo Refs e forwardRef no ReactJS: Quando e Como Utilizar?](https://www.youtube.com/watch?v=tJZX6U5SxOM)
 - [ReactJS: Por Que Tão Poucos Conseguem Masterizar?](https://www.youtube.com/watch?v=BBNVfsYQ59A)
-- [SOLID, Clean Code, Tipagem: A Verdade Sobre a Carga Cognitiva](https://www.youtube.com/watch?v=ierapGX83zU)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
