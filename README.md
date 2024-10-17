@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Novidades Nextjs 15 RC 2](https://www.youtube.com/watch?v=r4fxTy8SwRE)
 - [Você é um Desenvolvedor Tornado Tático? Entenda o Conceito e Melhore Seu Código!](https://www.youtube.com/watch?v=nAoJpxvHiHQ)
 - [Event Loop no JavaScript Explicado! Evite Erros e Melhore Seu Código](https://www.youtube.com/watch?v=ndZNQSQpSys)
 - [Novidades no ReactJS 19: Server Functions](https://www.youtube.com/watch?v=XL3fnf2EKPU)
 - [Closures no JavaScript: Como Elas Afetam o Estado no ReactJS?](https://www.youtube.com/watch?v=02KUtsJfRRk)
-- [ReactJS: Quando e Como Usar Memoization para Evitar Re-Renders](https://www.youtube.com/watch?v=nJOca650HKs)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
