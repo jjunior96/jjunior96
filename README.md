@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Cache no NextJS 15 #nextjs #reactjs #cache](https://www.youtube.com/watch?v=ffegeGNcSSs)
 - [NOVO Hook do ReactJS #reactjs #news #typescript](https://www.youtube.com/watch?v=_YEbB7YHlMc)
 - [Next.js 15: Guia Definitivo para Criar Rotas Privadas](https://www.youtube.com/watch?v=e418Nw13XLw)
 - [Nextjs 15 Lançado! Você deve atualizar?! #nextjs #reactjs $#typescript](https://www.youtube.com/watch?v=j4luVLfi9VQ)
 - [Como Organizar Um Projeto ReactJS?!](https://www.youtube.com/watch?v=I8TOef66pZs)
-- [Formulários DINÂMICOS de forma SIMPLES #hook #reactjs  #form](https://www.youtube.com/watch?v=3n3PDPE4Ixo)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
