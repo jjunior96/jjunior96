@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [ReactJS Lento? Descubra Como Melhorar Drasticamente a Performance #reactjs #typescript #performance](https://www.youtube.com/watch?v=74623z9Zy5I)
 - [Flexibilidade e Testabilidade no ReactJS #reactjs #typescript #nextjs](https://www.youtube.com/watch?v=pdciiE94uK4)
 - [ReactJS: Esse Novo Hook é Incrível! #reactjs #typescript #web](https://www.youtube.com/watch?v=KstA1Hw2H50)
 - [SOLID e Clean Code: Essenciais ou Apenas Teoria? Vamos Descobrir!](https://www.youtube.com/watch?v=oa1ufjZq89Q)
 - [NextJS: Rotas Privadas do Jeito Certo #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=JNuoZNn-CTE)
-- [Next.js 15 Está no Ar: Tudo o Que Você Precisa Saber Sobre a Nova Versão](https://www.youtube.com/watch?v=FGq3e26QVeA)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
