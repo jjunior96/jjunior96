@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Você precisa entender essas diferenças #reactjs #arch #folder](https://www.youtube.com/watch?v=tClBfDdyosY)
 - [Criando Componentes React Flexíveis com Compound Components e o Princípio SRP](https://www.youtube.com/watch?v=b9ByMRXKBFU)
 - [Nextjs Page Router Ainda Existe?! #nextjs #reactjs #typescript](https://www.youtube.com/watch?v=EwOFOtfpaVo)
 - [Renderização no Server: React Server Components vs SSR, Qual é o Ideal?](https://www.youtube.com/watch?v=LpyFaeGl90Q)
 - [TypeScript Descomplicado #typescript #nextjs #reactjs](https://www.youtube.com/watch?v=D5n_VRAyasY)
-- [ReactJS Lento? Descubra Como Melhorar Drasticamente a Performance #reactjs #typescript #performance](https://www.youtube.com/watch?v=74623z9Zy5I)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
