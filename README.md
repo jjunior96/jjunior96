@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [React Hooks: Será que Eles Realmente Compartilham o State? #reactjs #state #hook](https://www.youtube.com/watch?v=_HDv6x5XHwE)
 - [TypeScript Avançado: Como Usar Generics para Deixar Seu Código Flexível #typescript #advanced #js](https://www.youtube.com/watch?v=fnflbEs2UX0)
 - [Desvendando Solid.js](https://www.youtube.com/watch?v=Ntcgyg3qJZ8)
 - [Descomplicando Formulários: Como Criar Componentes Reutilizáveis em ReactJS #reactjs #form #nextjs](https://www.youtube.com/watch?v=dU1uOofJ4ac)
 - [Pare de Fazer Isso no ReactJS! #reactjs #typescript #memo](https://www.youtube.com/watch?v=aNIBrTAdlWU)
-- [O Design Pattern que Você Precisa Conhecer #reactjs #typescript #nextjs](https://www.youtube.com/watch?v=P1uGgEX6RuQ)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
