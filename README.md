@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Os 3 Pilares do Solid.js #typescript #webdevelopment  #javascript](https://www.youtube.com/watch?v=LDUWUkEJ43k)
 - [Aplicando SOLID no React.js #reactjs #javascript #coding](https://www.youtube.com/watch?v=ILg1GMQeQgU)
 - [5 Dicas de Ouro para Deixar Seu TypeScript Mais Profissional!](https://www.youtube.com/watch?v=HMomKEdDXdc)
 - [React.js: Dica de Teste que Todo Desenvolvedor Deveria Saber #reactjs #javascript #webdevelopment](https://www.youtube.com/watch?v=ZmhLXfz9Hpk)
 - [Manipulando Datas no #javascript  com Facilidade: O Guia Essencial #dev #webdevelopment](https://www.youtube.com/watch?v=-AmSmaT1tRc)
-- [Transforme a Performance do Seu App com SSR no React.js #reactjs #server #typescript](https://www.youtube.com/watch?v=yQn8P9U1AN0)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
