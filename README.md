@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [3 Perguntas Comuns em Entrevistas de JavaScript &lpar;e Como Respondê-las&rpar;](https://www.youtube.com/watch?v=-HM68dzLGKc)
 - [SOLID no React.js na prática! #reactjs #typescript #solid](https://www.youtube.com/watch?v=tKkRMWovL3M)
 - [Como Aplicar o Interface Segregation Principle do SOLID?](https://www.youtube.com/watch?v=7uoceXfi1sc)
 - [Aplicando SOLID no React.js da Forma Correta #reactjs #javascript #solid](https://www.youtube.com/watch?v=HJcD7Q9q8SE)
 - [Server VS Client Rendering #reactjs #nextjs #typescript](https://www.youtube.com/watch?v=GlF38GLftOg)
-- [SOLID: Dependency Inversion Principle na pratica #reactjs #coding #typescript](https://www.youtube.com/watch?v=nD4Q3srbJ18)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
