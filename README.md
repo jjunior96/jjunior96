@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [O Problema do Virtual DOM #reactjs #vuejs #javascript](https://www.youtube.com/watch?v=lPMxmr4EipE)
 - [Como Aplicar Clean Arch no Frontend? #reactjs #nextjs #arch](https://www.youtube.com/watch?v=_qnKW8WtJM4)
 - [Como Aplicar o Interface Segregation Principle do SOLID? #solid #typescript #reactjs](https://www.youtube.com/watch?v=PbEqXX7csW4)
 - [Conceito Simples e Poderoso do TypeScript #typescript #dev  #webdevelopment](https://www.youtube.com/watch?v=J7ZN4FbbDr0)
 - [3 Perguntas Comuns em Entrevistas de JavaScript &lpar;e Como Respondê-las&rpar;](https://www.youtube.com/watch?v=-HM68dzLGKc)
-- [SOLID no React.js na prática! #reactjs #typescript #solid](https://www.youtube.com/watch?v=tKkRMWovL3M)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
