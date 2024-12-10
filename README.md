@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Menos É Mais: Como Simplificar Seus Componentes React.js #reactjs #typescript #nextjs](https://www.youtube.com/watch?v=Db54hHNWd0M)
 - [IFs Mais Limpos, Código Mais Eficiente #javascript #clean  #code](https://www.youtube.com/watch?v=zllnLM1_5kg)
 - [3 Pilares do Solid em 60 Segundos! #solid #typescript #dev](https://www.youtube.com/watch?v=TQHylI3mLow)
 - [O Problema do Virtual DOM #reactjs #vuejs #javascript](https://www.youtube.com/watch?v=lPMxmr4EipE)
 - [Iniciando com Solid.js #solid #typescript #webdevelopment](https://www.youtube.com/watch?v=MMvecVPQZA8)
-- [Como Aplicar Clean Arch no Frontend? #reactjs #nextjs #arch](https://www.youtube.com/watch?v=_qnKW8WtJM4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
