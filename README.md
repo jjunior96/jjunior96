@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Como Aplicar Design Patterns do GoF em React.js com TypeScript?!](https://www.youtube.com/watch?v=t9wKmfFVgJQ)
 - [React.js Antipatterns: O Que Evitar para Construir Componentes Eficientes](https://www.youtube.com/watch?v=RawXg-GSGrs)
 - [Novo Hook use do React.js: Simplificando a Lógica Assíncrona Como Nunca Antes #reactjs #javascript](https://www.youtube.com/watch?v=O-5lWnMN0mI)
 - [ReactJS Suspense API: Deixe Suas Aplicações Mais Dinâmicas e Rápidas #reactjs #javascript #nextjs](https://www.youtube.com/watch?v=p-o-GRN8How)
 - [Evite Componentes Overloaded: Use o ISP no React.js #reactjs #javascript #typescript](https://www.youtube.com/watch?v=kIb2r-lL82w)
-- [ReactJS 19 Finalmente Disponível!](https://www.youtube.com/watch?v=ISCytTZK6S4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
