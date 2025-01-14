@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [E se a Clean Arch fosse um RPG?](https://www.youtube.com/watch?v=wQjtbLAeGBo)
 - [Frontend em 2025: React.js ainda domina?](https://www.youtube.com/watch?v=vlr7e9vDE4A)
 - [Uma reflexão para devs.](https://www.youtube.com/watch?v=KUo3Zi6xdTo)
 - [Boas Práticas no Frontend &lpar;+Arquitetura&rpar; com Mario Souto](https://www.youtube.com/watch?v=OBDB2MA9P_I)
 - [SOLID no ReactJS: Como Escrever Código Limpo e Escalável #reactjs #solid #javascript](https://www.youtube.com/watch?v=F2dEREaMJlI)
-- [Facilitando Integrações no React com o Design Pattern Adapter #reactjs #pattern #design](https://www.youtube.com/watch?v=VmCB6nmpwDU)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
