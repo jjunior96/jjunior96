@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [5 Perguntas Sobre JavaScript Que Todo Dev Precisa Saber!](https://www.youtube.com/watch?v=e-mjlNUEEzU)
 - [Feliz Dia da Educação! #education #reactjs #frontend](https://www.youtube.com/watch?v=uZ95_WuWmps)
 - [Construa Software Melhor!](https://www.youtube.com/watch?v=oNUrFQo66m8)
 - [Quando Usar o Omit no TypeScript? Dicas e Exemplos Práticos #typescript #tips #frontend](https://www.youtube.com/watch?v=TGPAwLpxlf8)
 - [Validação no Frontend com Clean Arch: Menos Gambiarra, Mais Organização #clean #reactjs #typescript](https://www.youtube.com/watch?v=ktZiY-FrhVI)
-- [Boas Práticas no Frontend &lpar;+Arquitetura&rpar; com Mario Souto](https://www.youtube.com/watch?v=OBDB2MA9P_I)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
