@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Event Loop no JavaScript: Guia Definitivo](https://www.youtube.com/watch?v=f-KTIX1TtI0)
 - [Hoisting: Baseado em uma História Real](https://www.youtube.com/watch?v=Z2tZeFEUGpQ)
 - [Você está ignorando esse Hook poderoso no React! 😱](https://www.youtube.com/watch?v=0qrcsq6In14)
 - [3 perguntas sobre JavaScript que TODO dev deveria saber!](https://www.youtube.com/watch?v=JHKdBV10Xrc)
 - [Se Você Ignorar Isso, Seu Código Pode Quebrar!](https://www.youtube.com/watch?v=TQmSrFwcaI8)
-- [5 Perguntas Sobre JavaScript Que Todo Dev Precisa Saber!](https://www.youtube.com/watch?v=e-mjlNUEEzU)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
