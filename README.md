@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [A verdade sobre a reatividade no React.js](https://www.youtube.com/watch?v=cD4gfW4syWg)
 - [Como The Witcher 3 Pode Ajudar Você a Entender SSR e Server Components no React](https://www.youtube.com/watch?v=Cpsc0Q9JNY4)
 - [Event Loop no JavaScript #javascript  #frontend #web](https://www.youtube.com/watch?v=UKwc5bp5kb4)
 - [Event Loop no JavaScript: Guia Definitivo](https://www.youtube.com/watch?v=f-KTIX1TtI0)
 - [Hoisting: Baseado em uma História Real](https://www.youtube.com/watch?v=Z2tZeFEUGpQ)
-- [Você está ignorando esse Hook poderoso no React! 😱](https://www.youtube.com/watch?v=0qrcsq6In14)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
