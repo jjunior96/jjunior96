@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Tudo que Você Precisa Saber Sobre Formatação no JavaScript](https://www.youtube.com/watch?v=zXdmJKwvptg)
 - [Antes de culpar o JavaScript, olha isso aqui!](https://www.youtube.com/watch?v=WwC4Ds0El3o)
 - [Revisitando o SRP: Compreendendo o Princípio Mais Mal Interpretado do SOLID](https://www.youtube.com/watch?v=pNnNYfjwtLw)
 - [A verdade sobre a reatividade no React.js](https://www.youtube.com/watch?v=cD4gfW4syWg)
 - [Como The Witcher 3 Pode Ajudar Você a Entender SSR e Server Components no React](https://www.youtube.com/watch?v=Cpsc0Q9JNY4)
-- [Event Loop no JavaScript #javascript  #frontend #web](https://www.youtube.com/watch?v=UKwc5bp5kb4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
