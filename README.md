@@ -72,11 +72,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [A história não contada do &quot;computador&quot;](https://devjuniorplus.com.br/articles/computador-evolucao-do-significado)
 - [Von Neumann, Pai Não Reconhecido da Web?](https://devjuniorplus.com.br/articles/john-von-neumann-e-a-web)
 - [Programar é Resolver Problemas, certo?](https://devjuniorplus.com.br/articles/tdd-e-o-metodo-de-resolver-problemas)
 - [Como trabalhar com cookies no Next.js 13?](https://devjuniorplus.com.br/articles/como-trabalhar-com-cookies-no-next-js-13)
 - [O que é Dependency Injection e como aplicar no React.js?](https://devjuniorplus.com.br/articles/o-que-e-dependency-injection-e-como-aplicar-no-react-js)
-- [Typescript: 7 conceitos importantes que você deveria saber](https://devjuniorplus.com.br/articles/typescript-7-conceitos-importantes-que-voce-deveria-saber)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
