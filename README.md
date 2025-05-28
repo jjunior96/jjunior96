@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Você Está Usando DDD Errado &lpar;e nem sabe!&rpar;](https://www.youtube.com/watch?v=zVmc9bysaGk)
 - [Aprenda Next.js em 15 Minutos &lpar;Guia Rápido e Prático&rpar;](https://www.youtube.com/watch?v=xUUwQuhjmB4)
 - [1968: O Ano em que o Software Entrou em Colapso](https://www.youtube.com/watch?v=quIk3seIQtk)
 - [TDD é Inútil? Só se Você Esquecer do SOLID!](https://www.youtube.com/watch?v=XCFLexkz0Qw)
 - [Tudo que Você Precisa Saber Sobre Formatação no JavaScript](https://www.youtube.com/watch?v=zXdmJKwvptg)
-- [Antes de culpar o JavaScript, olha isso aqui!](https://www.youtube.com/watch?v=WwC4Ds0El3o)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
