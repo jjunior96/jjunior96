@@ -26,7 +26,7 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 <br />
 <br />
 
-E aí, tudo na paz?<br/>
+Faaala galera, blz?<br/>
 Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho no [Magazine Luiza/LuizaLabs](https://www.magazineluiza.com.br/) como Senior Frontend Developer. Nas horas vagas, gosto de ler 📚 e desenhar ✏️ [@Artstation](https://www.artstation.com/jjunior_art)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
