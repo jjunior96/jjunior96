@@ -72,11 +72,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [Os 4 Padrões de Resiliência que você precisa conhecer!](https://devjuniorplus.com.br/articles/padroes-de-resiliencia-microservicos)
 - [Por que você precisa de Observabilidade?](https://devjuniorplus.com.br/articles/introducao-a-observabilidade)
 - [Circuit Breaker: O Padrão de Design que Você Precisa Conhecer](https://devjuniorplus.com.br/articles/introducao-circuit-breaker)
 - [Browser: O MasterChef da Web](https://devjuniorplus.com.br/articles/como-uma-pagina-e-renderizada)
 - [Deixe sua UI finalmente &quot;respirar&quot;](https://devjuniorplus.com.br/articles/deixe-sua-ui-finalmente-respirar)
-- [A história não contada do &quot;computador&quot;](https://devjuniorplus.com.br/articles/computador-evolucao-do-significado)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
