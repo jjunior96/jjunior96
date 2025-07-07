@@ -72,11 +72,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [Microfrontends - o que você precisa saber](https://devjuniorplus.com.br/articles/microfrontend-introducao)
 - [Lexical Environment Explicado](https://devjuniorplus.com.br/articles/lexical-environment-explicado)
 - [O Teorema CAP Explicado](https://devjuniorplus.com.br/articles/teorema-cap-explicado)
 - [Message Broker: O guia definitivo](https://devjuniorplus.com.br/articles/message-broker-guia-definitivo)
 - [Os 4 Padrões de Resiliência que você precisa conhecer!](https://devjuniorplus.com.br/articles/padroes-de-resiliencia-microservicos)
-- [Por que você precisa de Observabilidade?](https://devjuniorplus.com.br/articles/introducao-a-observabilidade)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
