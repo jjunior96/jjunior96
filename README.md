@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Microfrontend: Tudo o que Você Precisa Saber... pra Começar](https://www.youtube.com/watch?v=54sbJOWUkyU)
 - [Lexical Environment Explicado &lpar;com exemplos práticos&rpar;](https://www.youtube.com/watch?v=UeX5Jz5RF54)
 - [Você realmente sabe o que é um side effect?!](https://www.youtube.com/watch?v=KTqq6ZLg5Ms)
 - [Renderização no React: O Que Todo Dev PRECISA Saber.](https://www.youtube.com/watch?v=GrbcEKUjRko)
 - [Você Está Usando DDD Errado &lpar;e nem sabe!&rpar;](https://www.youtube.com/watch?v=zVmc9bysaGk)
-- [Aprenda Next.js em 15 Minutos &lpar;Guia Rápido e Prático&rpar;](https://www.youtube.com/watch?v=xUUwQuhjmB4)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
