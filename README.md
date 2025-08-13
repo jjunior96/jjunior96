@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Técnica de Games no React.js: Double Buffering Explicado](https://www.youtube.com/watch?v=AjZ7KPBYYqs)
 - [React Performance: Você Está Perdendo Muito Sem Memoization?](https://www.youtube.com/watch?v=mQGgLWQsyT8)
 - [Microfrontend: Tudo o que Você Precisa Saber... pra Começar](https://www.youtube.com/watch?v=54sbJOWUkyU)
 - [Lexical Environment Explicado &lpar;com exemplos práticos&rpar;](https://www.youtube.com/watch?v=UeX5Jz5RF54)
 - [Você realmente sabe o que é um side effect?!](https://www.youtube.com/watch?v=KTqq6ZLg5Ms)
-- [Renderização no React: O Que Todo Dev PRECISA Saber.](https://www.youtube.com/watch?v=GrbcEKUjRko)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
