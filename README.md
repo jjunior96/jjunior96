@@ -72,11 +72,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [Arte do Feedback](https://devjuniorplus.com.br/articles/a-arte-do-feedback)
 - [O que é ser Dev?](https://devjuniorplus.com.br/articles/o-que-e-ser-dev)
 - [Cache - O Guia Completo](https://devjuniorplus.com.br/articles/cache-o-guia-completo)
 - [O Dilema do Dev - Artesão ou Linha de Montagem?](https://devjuniorplus.com.br/articles/desenvolvedor-artesao)
 - [Como o Chrome Verifica Milhões de Sites Maliciosos em Milissegundos?](https://devjuniorplus.com.br/articles/bloom-filter-o-que-e)
-- [Renderização no React.js - Guia Completo &lpar;passo a passo&rpar;](https://devjuniorplus.com.br/articles/react-internals-deep-dive)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
