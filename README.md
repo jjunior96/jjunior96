@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Como eu estudo programação atualmente?](https://www.youtube.com/watch?v=S8BQr80qoQU)
 - [Next.js 16 - O que mudou?](https://www.youtube.com/watch?v=IpRlIOc6fkE)
 - [Do Front ao Back...](https://www.youtube.com/watch?v=FiU4Wk_iM0g)
 - [O Que 97,3% dos Desenvolvedores Next.js Ignoram sobre System Design &lpar;e Por Quê&rpar;](https://www.youtube.com/watch?v=5d5b7E1SOvw)
 - [Next.js te deu Skills de System Design &lpar;e você nem percebeu&rpar;](https://www.youtube.com/watch?v=ddtejfHX7u8)
-- [Renderização no React.js: Guia Completo](https://www.youtube.com/watch?v=AjZ7KPBYYqs)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
