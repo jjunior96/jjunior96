@@ -72,11 +72,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [O que você NÃO sabe sobre Arquitetura Cliente-Servidor](https://devjuniorplus.com.br/articles/arquitetura-client-servidor)
 - [5 mitos do JS que você acreditou por tempo demais](https://devjuniorplus.com.br/articles/mitos-do-javascript)
 - [Testes unitários são realmente importantes?](https://devjuniorplus.com.br/articles/testes-unitarios-sao-importantes)
 - [Arte do Feedback](https://devjuniorplus.com.br/articles/a-arte-do-feedback)
 - [O que é ser Dev?](https://devjuniorplus.com.br/articles/o-que-e-ser-dev)
-- [Cache - O Guia Completo](https://devjuniorplus.com.br/articles/cache-o-guia-completo)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
