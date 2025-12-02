@@ -72,11 +72,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **📕 Posts recentes em meu blog:**
 
 <!-- BLOG:START -->
+- [VOCÊ NÃO SABE XSS &lpar;de verdade&rpar;](https://devjuniorplus.com.br/articles/o-que-e-xss)
 - [5 comandos do Git para o dia a dia](https://devjuniorplus.com.br/articles/5-comandos-git-para-o-dia-a-dia)
 - [React setState é assíncrono?](https://devjuniorplus.com.br/articles/setstate-e-async)
 - [O que você NÃO sabe sobre Arquitetura Cliente-Servidor](https://devjuniorplus.com.br/articles/arquitetura-client-servidor)
 - [5 mitos do JS que você acreditou por tempo demais](https://devjuniorplus.com.br/articles/mitos-do-javascript)
-- [Testes unitários são realmente importantes?](https://devjuniorplus.com.br/articles/testes-unitarios-sao-importantes)
 <!-- BLOG:END -->
 
 ➡️ ` ` [mais posts...](https://devjuniorplus.com.br)
