@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [DEV ou ARQUITETO?](https://www.youtube.com/watch?v=IAkRwoJdOYw)
 - [Por que seu código é 10x mais lento?](https://www.youtube.com/watch?v=ADTtldWLElc)
 - [É assim que eu uso IA para Estudar React &lpar;do jeito certo&rpar;](https://www.youtube.com/watch?v=VQGfJlw3rbQ)
 - [Como eu estudo programação atualmente?](https://www.youtube.com/watch?v=S8BQr80qoQU)
 - [Next.js 16 - O que mudou?](https://www.youtube.com/watch?v=IpRlIOc6fkE)
-- [Do Front ao Back...](https://www.youtube.com/watch?v=FiU4Wk_iM0g)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
