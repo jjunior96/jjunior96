@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Na era da AI - Por que você PRECISA saber disso?!](https://www.youtube.com/watch?v=x04zvLunSsM)
 - [Tudo que você PRECISA saber sobre Docker](https://www.youtube.com/watch?v=AVkzz3vL4dU)
 - [Como eu parei de estudar no escuro... e como eu faço agora](https://www.youtube.com/watch?v=a9VRj-OKgqw)
 - [Minha NOVA ferramenta de estudos!](https://www.youtube.com/watch?v=WjnslJNVR2o)
 - [DEV ou ARQUITETO?](https://www.youtube.com/watch?v=IAkRwoJdOYw)
-- [Por que seu código é 10x mais lento?](https://www.youtube.com/watch?v=ADTtldWLElc)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
