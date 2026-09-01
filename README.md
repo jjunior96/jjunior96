@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Offline-First vs Local-First: Qual a Diferença?](https://www.youtube.com/watch?v=Rtx6m8g0y64)
 - [SSR, Event Loop e a Thread Única: o bloqueio que derruba seu servidor](https://www.youtube.com/watch?v=OxjcwEuD5Qw)
 - [Toda decisão arquitetural se resume a ISSO!](https://www.youtube.com/watch?v=x04zvLunSsM)
 - [Tudo que você PRECISA saber sobre Docker](https://www.youtube.com/watch?v=AVkzz3vL4dU)
 - [Como eu parei de estudar no escuro... e como eu faço agora](https://www.youtube.com/watch?v=a9VRj-OKgqw)
-- [Minha NOVA ferramenta de estudos!](https://www.youtube.com/watch?v=WjnslJNVR2o)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
