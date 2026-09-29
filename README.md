@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [Teorema CAP em entrevista: resposta fraca vs forte](https://www.youtube.com/watch?v=PlVNatrN9-M)
 - [System Design: Teorema CAP de forma simples](https://www.youtube.com/shorts/x8sD-mH-gKA)
 - [A Lei que rege o desenvovimento de software #conway #software #development](https://www.youtube.com/shorts/-r1_yxD97ck)
 - [Você precisa aprender isso System Design #systemdesign #software  #architecture](https://www.youtube.com/shorts/Rq1qyqRXy8U)
 - [O que acontece quando dois bancos acham que são o primário?](https://www.youtube.com/watch?v=IqaJUDvBb_8)
-- [Estudando System Design com Flashcards? Veja isso #systemdesign #flashcards #interview](https://www.youtube.com/shorts/3Z5JN7ObHmY)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
