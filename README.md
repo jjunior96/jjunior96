@@ -62,11 +62,11 @@ Sou Junior Alves, Javascript/Typescript Developer 🚀, apaixonado por tecnologi
 **▶️ Vídeos recentes em meu canal:**
 
 <!-- YOUTUBE:START -->
+- [ACID na prática: o que seu banco garante sozinho?](https://www.youtube.com/watch?v=poYXbIJ3qJc)
 - [Encurtador de URLs: system design do zero](https://www.youtube.com/watch?v=9Hpde0BDRDU)
 - [Teorema CAP em entrevista: resposta fraca vs forte](https://www.youtube.com/watch?v=PlVNatrN9-M)
 - [System Design: Teorema CAP de forma simples](https://www.youtube.com/shorts/x8sD-mH-gKA)
 - [A Lei que rege o desenvovimento de software #conway #software #development](https://www.youtube.com/shorts/-r1_yxD97ck)
-- [Você precisa aprender isso System Design #systemdesign #software  #architecture](https://www.youtube.com/shorts/Rq1qyqRXy8U)
 <!-- YOUTUBE:END -->
 
 **📕 Posts recentes em meu blog:**
